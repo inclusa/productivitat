@@ -21,6 +21,7 @@
 7. [Dan Coyle. 2009. Las Claves del Talento. Zenth.](http://www.casadellibro.com/libro-las-claves-del-talento/9788408079712/1336609). [Resumen](http://conectatutalento.com/wp-content/uploads/2014/10/1.-Las-claves-del-talento.Dan-Coyle.pdf)
 8. [Viktor E. Frankl. 2013. El hombre en busca de sentido. Herder](http://www.casadellibro.com/libro-el-hombre-en-busca-de-sentido/9788425423871/1013961). [PDF](https://markeythink.files.wordpress.com/2011/04/el_hombre_en_busca_de_sentido_viktor_frankl.pdf)
 9. [Brian Tracy. 2007. 21 great ways to Stop Procastinating and get more done in less time.](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227). [21 estrategias para tomar decisiones rápidas y mejorar la eficacia profesional. En PDF](http://almendrucotrick.com/wp-content/uploads/traguese-ese-sapo-brian-tracy.pdf). [Libro en español](https://www.leadersummaries.com/ver-resumen/traguese-ese-sapo)
+10. [Elsa Punset. 2012. Una mochila para el universo. Destino](http://m.casadellibro.com/libro-una-mochila-para-el-universo/9788423324613/1984904)
 
 # Websites
 
@@ -68,6 +69,6 @@
 
 <img src="https://www.leadersummaries.com/images-resumenes/vr/traguese-ese-sapo.jpg" width=400>
 
-
+<img src="http://image.casadellibro.com/a/l/t1/13/9788423324613.jpg" width=400>
 
 
