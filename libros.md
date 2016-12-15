@@ -22,6 +22,7 @@
 8. [Viktor E. Frankl. 2013. El hombre en busca de sentido. Herder](http://www.casadellibro.com/libro-el-hombre-en-busca-de-sentido/9788425423871/1013961). [PDF](https://markeythink.files.wordpress.com/2011/04/el_hombre_en_busca_de_sentido_viktor_frankl.pdf)
 9. [Brian Tracy. 2007. 21 great ways to Stop Procastinating and get more done in less time.](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227). [21 estrategias para tomar decisiones rápidas y mejorar la eficacia profesional. En PDF](http://almendrucotrick.com/wp-content/uploads/traguese-ese-sapo-brian-tracy.pdf). [Libro en español](https://www.leadersummaries.com/ver-resumen/traguese-ese-sapo)
 10. [Elsa Punset. 2012. Una mochila para el universo. Destino](http://m.casadellibro.com/libro-una-mochila-para-el-universo/9788423324613/1984904)
+11. [Gary Keller. 2015. Lo único. Aguilar. ISBN:  9788403015180](http://www.casadellibro.com/libro-lo-unico/9788403015180/2435315)
 
 # Websites
 
@@ -71,4 +72,4 @@
 
 <img src="http://image.casadellibro.com/a/l/t1/13/9788423324613.jpg" width=400>
 
-
+<img src="http://image0.casadellibro.com/a/l/t1/80/9788403015180.jpg" width=400>
