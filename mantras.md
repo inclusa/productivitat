@@ -164,7 +164,7 @@ Alfons Rovira, [06.12.16 07:31]
 6. Fija el tiempo, flexibiliza el alcance
 7. Desarrolla un ritmo de resultados
 
-— Javier Cristóbal
+— Javier Cristóbal. Resultados ágiles.
 
 
 # 6. Principios
@@ -178,7 +178,7 @@ Alfons Rovira, [04.12.16 08:28]
 6. Fija el tiempo, flexibiliza el alcance
 7. Desarrolla un ritmo de resultados
 
-— Javier Cristóbal
+— Javier Cristóbal. Resultados ágiles.
 
 
 # 5. Valores
@@ -207,7 +207,7 @@ Alfons Rovira, [03.12.16 06:19]
 7. Resultados > Tiempo. Mide tus resultados, no el tiempo invertido
 8. Fortalezas > Debiliades. Invierte en fortalezas, evita tus debilidades
 
-— Javier Cristóbal
+— Javier Cristóbal. Resultados ágiles.
 
 # 3. Autorregulación
 Alfons Rovira, [01.12.16 06:50]
@@ -223,7 +223,7 @@ Mantra matutino:
 7. Organiza tu ambiente
 8. Relacionate con personas que te puedan ayudar
 
--- Wikipedia. Autorregulación
+— Wikipedia. Autorregulación
 
 
 # 2. Automotivación
@@ -237,6 +237,7 @@ Mantra matutino:
 4. Da el primer paso.
 5. Se honesto contigo mismo.
 
+— Wikipedia. Autorregulación
 
 # 1. Automotivación
 Alfons Rovira, [28.11.16 08:32]
@@ -247,4 +248,4 @@ Alfons Rovira, [28.11.16 08:32]
 4. Escribe las ideas en un papel.
 5. Identifica el error y aprende.
 
--- Wikipedia. Augomotivación
+— Wikipedia. Automotivación
