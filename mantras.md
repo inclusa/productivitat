@@ -8,18 +8,13 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 #17. Mitos
 Alfons Rovira, [16.12.16 05:30]
 
-Seis mitos que impiden obtener buenos resultados.
+6 mitos que impiden obtener buenos resultados.
 
-1. Creer que todas las tareas imporntan igual. Enfocarse en ¿Cuál es esa actividad que al hacerla todo lo demás sería más fácil?
-
+1. Creer que todas las tareas importan igual. Enfocarse en ¿Cuál es esa actividad que al hacerla todo lo demás sería más fácil?
 2. Multitarea. El 28 % de nuestro tiempo se pierde cuando hamos varias cosas simultáneamente. Establecer franjas de tiempo donde la concentración sea dirigida a una única tarea.
-
 3. Disciplina como factor fundamental pera lograr objetivos. Hábito positivo, a partir de 66 días contínuos el hábito no significar ningún esfuerzo.
-
 4. La fuerza de voluntad siempre está disponible. La fuerza de voluntad se debilita con la realización de actividades (Kelly McGoligal. Autocontrol). Debemos buscar las horas con tus niveles de energía más altos para realizar las actividades más importantes.
-
 5. Podemos tener una vida más equilibrada. En ocasiones nos enfocamos en una de las dimensiones personales (trabajo, familia, cuerpo), la clave estaría en no descuidar nuestras otras dimensiones, aunque sea dedicando poco tiempo a ellas.
-
 6. Tener un éxito muy grande puede ser malo. Aumentaran responsabilidades y tendremos menos tiempo, pero, podremos delegar y enfocarnos en actividades que aporten más valor. No temas aportar algo grande en tu vida, teme a la mediocridad.
 
 — Gary Keller. Lo único
@@ -60,7 +55,6 @@ Alfons Rovira, [13.12.16 06:23]
 Las decisiones que nos conducen a la meta son fáciles de tomar, pero también son fácilies de no tomar.
 
 — Jeff Olsoon. Cumplir tus metas.
-
 
 
 # 13. Estrategias
@@ -117,6 +111,7 @@ No todo el mundo está dispuesto a llegar al límite, lo que supone una ventaja 
 — Geoff Colvin. El talento está sobrevalorado. Gestión 2000.
 (Analista y columnista de la revista Fortune).
 
+
 # 10. Experiencia
 Alfons Rovira, [08.12.16 06:45]
 
@@ -124,6 +119,7 @@ Las personas que saben controlar su experiencia interna son capaces de determina
 
 — Mihaly Csikszentmihály
 Flow (Fluir). Una psicologia de la felicidad. Kairós. 1997.
+
 
 # 9. Efectivdad
 Alfons Rovira, [09.12.16 06:50]
@@ -147,7 +143,6 @@ B. Victoria pública (colectiva)
 —Steaphen Covey
 
 
-
 # 8. Experiencia
 Alfons Rovira, [08.12.16 06:45]
 
@@ -156,8 +151,6 @@ Las personas que saben controlar su experiencia interna son capaces de determina
 — Mihaly Csikszentmihály
 
 Flow (Fluir). Una psicologia de la felicidad. Kairós. 1997.
-
-
 
 
 # 7. Principios
@@ -173,6 +166,7 @@ Alfons Rovira, [06.12.16 07:31]
 
 — Javier Cristóbal
 
+
 # 6. Principios
 Alfons Rovira, [04.12.16 08:28]
 
@@ -186,7 +180,8 @@ Alfons Rovira, [04.12.16 08:28]
 
 — Javier Cristóbal
 
-# 5. valores
+
+# 5. Valores
 Alfons Rovira, [03.12.16 06:19]
 
 1. Acción > Parálisis. Ante la duda actúa
@@ -200,7 +195,7 @@ Alfons Rovira, [03.12.16 06:19]
 
 — Javier Cristóbal
 
-# 4. valores
+# 4. Valores
 Alfons Rovira, [03.12.16 06:19]
 
 1. Acción > Parálisis. Ante la duda actúa
@@ -214,7 +209,7 @@ Alfons Rovira, [03.12.16 06:19]
 
 — Javier Cristóbal
 
-# 3. autorregulación
+# 3. Autorregulación
 Alfons Rovira, [01.12.16 06:50]
 
 Mantra matutino:
