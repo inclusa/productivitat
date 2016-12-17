@@ -23,6 +23,8 @@
 9. [Brian Tracy. 2007. 21 great ways to Stop Procastinating and get more done in less time.](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227). [21 estrategias para tomar decisiones rápidas y mejorar la eficacia profesional. En PDF](http://almendrucotrick.com/wp-content/uploads/traguese-ese-sapo-brian-tracy.pdf). [Libro en español](https://www.leadersummaries.com/ver-resumen/traguese-ese-sapo)
 10. [Elsa Punset. 2012. Una mochila para el universo. Destino](http://m.casadellibro.com/libro-una-mochila-para-el-universo/9788423324613/1984904)
 11. [Gary Keller. 2015. Lo único. Aguilar. ISBN:  9788403015180](http://www.casadellibro.com/libro-lo-unico/9788403015180/2435315)
+12. [Timothy Feryss. La semana laboral de 4 horas](https://www.amazon.es/Semana-Laboral-Horas-FICCI%C3%93N-GENERAL/dp/8490064385)
+13. [Las claves del éxito de Toyota: 14 principios de gestión del fabricante más grande del mundo](https://www.amazon.es/Las-claves-del-%C3%A9xito-Toyota/dp/8498750741)
 
 # Websites
 
@@ -73,3 +75,8 @@
 <img src="http://image.casadellibro.com/a/l/t1/13/9788423324613.jpg" width=400>
 
 <img src="http://image0.casadellibro.com/a/l/t1/80/9788403015180.jpg" width=400>
+
+<img src="https://www.amazon.es/Semana-Laboral-Horas-FICCI%C3%93N-GENERAL/dp/8490064385" width=400>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41tVYX5WcTL._SX329_BO1,204,203,200_.jpg" width=400>
+
