@@ -5,7 +5,55 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
-#17. Mitos
+# 18. Toyota_Production_System
+Alfons Rovira, [17.12.16 06:54]
+
+The Toyota Way
+
+#Sección_1: Filosofía a largo plazo - Propósito
+
+Principio 1: Basa tus decisiones en una filosofía a largo plazo, incluso a cosata de resultados financieros a corto plazo.
+
+#Sección_2: El proceso correcto dará lugar a los resultados correctos.
+
+Principio 2: Principio de flujo. Crea procesos de flujo continuo para hacer que los problemas se hagan evidentes.
+
+Principio 3: Principio de tracción. Aplica el pull (tracción) para evitar la sobreproducción.
+
+Principio 4: Principio de cadencia. JIT (Just In Time). Nivela la carga de trabajo (Heijunka). Trabaja como la tortuga, no como la liebre.
+
+Principio 5: Principio de cero defectos. Jidoka.
+
+Princio 6: El trabajo estandarizado es la base para la mejora continua y la implicación personal.
+
+Principio 7: Utiliza controladores visuales de modo que los problemas sean evidentes.
+
+Principio 8: Utiliza tecnología fiable y contrastada que doy servicio a personas y procesos.
+
+#Sección_3: Agregar valor a tu organización mediante el desarrollo de las personas.
+
+Principio 9: Desarrolla líderes que comprendan a fondo el trabajo, vivan la filosofía y la enseñan a los demás.
+
+Principio 10: Desarrolla personas excepcionales y equipos que siguen la filosofía de la empresa.
+
+Principio 11: Respeta tus socios y proveedores, retal a mejorar y ayúdalo.
+
+#Sección_4: Mejora continua
+
+Principio 12: Viene y observa por ti mismo para entender profundamente la situación.
+
+Principio 13: Toma decisiones despacio y por consenso, considerando cuidadosamente todas las posibles opciones; después, implementa la decisión con rapidez.
+
+Principio 14: Conviértete en una organización de aprendizaje mediante la reflexión (Hansel) y la mejora continua (kaizen).
+
+JIT (Flujo, Tracción y Cadencia) y JIDOKA (Cero Defectos) son los pilares de Toyota Production System (TPS).
+
+— The Toyota Way
+
+http://www.leanroots.com/toyota-way.html
+
+
+# 17. Mitos
 Alfons Rovira, [16.12.16 05:30]
 
 6 mitos que impiden obtener buenos resultados.
