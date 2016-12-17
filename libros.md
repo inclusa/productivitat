@@ -76,7 +76,7 @@
 
 <img src="http://image0.casadellibro.com/a/l/t1/80/9788403015180.jpg" width=400>
 
-<img src="https://www.amazon.es/Semana-Laboral-Horas-FICCI%C3%93N-GENERAL/dp/8490064385" width=400>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51iRXsmdHgL._SX333_BO1,204,203,200_.jpg" width=400>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41tVYX5WcTL._SX329_BO1,204,203,200_.jpg" width=400>
 
