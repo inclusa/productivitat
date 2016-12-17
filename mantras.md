@@ -5,16 +5,16 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
-# 18. Toyota_Production_System
+# 18. Toyota Production System
 Alfons Rovira, [17.12.16 06:54]
 
 The Toyota Way
 
-### Sección_1: Filosofía a largo plazo - Propósito
+### Sección 1: Filosofía a largo plazo - Propósito
 
 Principio 1: Basa tus decisiones en una filosofía a largo plazo, incluso a cosata de resultados financieros a corto plazo.
 
-### Sección_2: El proceso correcto dará lugar a los resultados correctos.
+### Sección 2: El proceso correcto dará lugar a los resultados correctos.
 
 Principio 2: Principio de flujo. Crea procesos de flujo continuo para hacer que los problemas se hagan evidentes.
 
@@ -30,7 +30,7 @@ Principio 7: Utiliza controladores visuales de modo que los problemas sean evide
 
 Principio 8: Utiliza tecnología fiable y contrastada que doy servicio a personas y procesos.
 
-### Sección_3: Agregar valor a tu organización mediante el desarrollo de las personas.
+### Sección 3: Agregar valor a tu organización mediante el desarrollo de las personas.
 
 Principio 9: Desarrolla líderes que comprendan a fondo el trabajo, vivan la filosofía y la enseñan a los demás.
 
@@ -38,7 +38,7 @@ Principio 10: Desarrolla personas excepcionales y equipos que siguen la filosof�
 
 Principio 11: Respeta tus socios y proveedores, retal a mejorar y ayúdalo.
 
-### Sección_4: Mejora continua
+### Sección 4: Mejora continua
 
 Principio 12: Viene y observa por ti mismo para entender profundamente la situación.
 
