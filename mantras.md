@@ -5,6 +5,26 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+# 19. Decisiones 
+Alfons Rovira, [18.12.16 05:55]
+
+1. Nuestras deciones y no las condiciones determinan nuestro destino.
+
+2. Nuestras acciones van encaminadas a evitar el dolor y aumentar el placer. Es más gratificante no realizar acciones que requieran mayor esfuerzo. Para cambiar esto asociar comportamientos erróneos con el dolor.
+
+3. La capacidad de controlar la gratificación inmediata es un fuerte indicador de éxitos futuros.
+
+4. Los factores que influyen en la toma de deciones:
+
+   - Estados emocionales.
+   - Creencias
+   - Valores
+   - Referencias
+   - Reglas
+   
+— Anthony Robbins. Despertando al gigante interior.
+
+
 # 18. Toyota Production System
 Alfons Rovira, [17.12.16 06:54]
 
