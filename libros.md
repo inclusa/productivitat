@@ -2,7 +2,7 @@
 
 1. [David Allen. Organízate con eficacia. 2015. Empresa Activa. ISBN: 9788492921300.](http://www.casadellibro.com/libro-organizate-con-eficacia/9788492921300/2608786)
 2. [David Allen. 2004. Ready for Anything: 52 Productivity Principles for Getting Things Done. ](https://www.amazon.com/Ready-Anything-Productivity-Principles-Getting/dp/0143034545)
-3. [David Allen. Sé más eficaz. 52 clabes para mejorar tu productividad en la vida y en el trabajo. Booke.](https://www.amazon.es/S%C3%A9-m%C3%A1s-eficaz-mejorar-productividad/dp/8415320701)
+3. [David Allen. Sé más eficaz. 52 claves para mejorar tu productividad en la vida y en el trabajo. Booke.](https://www.amazon.es/S%C3%A9-m%C3%A1s-eficaz-mejorar-productividad/dp/8415320701)
 4. [Javier Cristóbal. Resultados ágiles.](https://www.amazon.es/s/ref=nb_sb_noss?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Ddigital-text&field-keywords=Javier+Crist%C3%B3bal.+Resultados+%C3%A1giles.)
 5. [Jerónimo Sánchez. GTD para dumies.](http://jeronimosanchez.com/wp-content/uploads/GTD-para-dummies.pdf)
 6. [José Miguel Bolíbar. Productividad. Aprende a liberarte del estrés con GTD.](https://www.amazon.es/dp/B00TZA0X3K/?tag=divagacitecno-21)
