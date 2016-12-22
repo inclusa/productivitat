@@ -4,6 +4,17 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+# 20. Talento
+Alfons Rovira, [22.12.16 06:26]
+
+1. El entorno y las circunstancias son importantes para el desarrollo de habilidades. (Malcolm Gladwell. Fuera de serie)
+2. Es necesario dedicar 10.000 horas de práctica en una disciplina para ser realmente bueno.
+3. La relación entre tiempo de adquisición de habilidades prácticas y tiempo de práctica no es linial. Para avanzar debemos poner una cantidad importante de horas de esfuerzo.
+5. Practica deliberada: desarrollo de tareas y actividades que están más allá de tus capacidades actuales.
+
+Conclusión: las personas no nacen con talento. La habilidad se puede adquirir a través de varios años de práctica.
+
+— Daniel Coyle. 2009. Las claves del talento. Planeta
 
 # 20. Estrategias
 Alfons Rovira, [21.12.16 06:30]
