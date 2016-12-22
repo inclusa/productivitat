@@ -5,6 +5,20 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+# 20. Estrategias
+Alfons Rovira, [21.12.16 06:30]
+
+1. En ocasiones lo que aparenta ser una extrema fortaleza, también es una enorme debilidad. `Tener más recursos no significa necesariamente tener mejores resultados`. Ciertas desventajas pueden convertirse en ventajas, si aprendes a aplicar las estrategias adecuadas.
+
+2. `Entender nuestras propias debilidades` nos lleva a ser más creativos y a buscar nuevas maneras de hacer las cosas. Lo cual puede darnos ventajas.
+
+3. La crianza de los hijos respecto a los recursos económicos: - dinero + difícil, a partir de 75.000$ + dinero + difícil criar a los hijos. Quien no lo tiene LO HACE, quien lo tiene LO DESHACE. Una `infancia con pocos recursos` brinda la oportunidad de desarrollar + disciplina y + ética laboral.
+
+4. La probabilidad de obtener un título universitario tiene que ver no con cuan inteligente seas, sino `cuan inteligente te percibas` respecto a otras personas. Entrar en una universidad prestigiosa no garantiza llegar a graduarse. Experiencias contrarias a la sabiduria popular pueden darte mejores opciones.
+
+-- Malcolm Gladwell. David y Goliat
+
+
 # 19. Decisiones 
 Alfons Rovira, [18.12.16 05:55]
 
