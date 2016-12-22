@@ -27,6 +27,7 @@
 13. [Las claves del éxito de Toyota: 14 principios de gestión del fabricante más grande del mundo](https://www.amazon.es/Las-claves-del-%C3%A9xito-Toyota/dp/8498750741)
 14. [Anthony Robbins.i 2007. Despertando al gigante interior. Grijalbo Mondadori. ISBN 9789707807150](http://www.casadellibro.com/libro-despertando-al-gigante-interior/9789707807150/2333273)
 15. [Malcolm Gladwell. 2013. David y Goliat. Taurus. ISBN 9788430607297](http://www.casadellibro.com/libro-david-y-goliat/9788430607297/2212410)
+16. [Fuera de serie: Por qué unas personas tienen éxito y otras no](http://www.casadellibro.com/libro-fueras-de-serie-por-que-unas-personas-tienen-exito-y-otras-no/9788430606856/1239077)
 
 
 # Websites
@@ -86,4 +87,6 @@
 <img src="http://image0.casadellibro.com/a/l/t0/50/9789707807150.jpg" width=400>
 
 <img src="http://image7.casadellibro.com/a/l/t1/97/9788430607297.jpg" width=400>
+
+<img src="http://image6.casadellibro.com/a/l/t1/56/9788430606856.jpg" width=400>
 
