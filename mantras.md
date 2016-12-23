@@ -4,6 +4,26 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+
+# 21. Inteligencia intuitiva
+Alfons Rovira, [23.12.16 06:25]
+
+`Inteligencia intuitiva`: capacidad de determinar qué es lo más importante en poco tiempo. Es la capacidad dejar valorar a la conciencia todo aquello que ya sabemos, cuando vamos resolviendo un problema y tomar decisiones con extraordinaria rapidez.
+
+No se trata de razonar, sino de `saber escuchar a nuestro inconsciente i a las emociones`.
+
+La inteligencia intuitiva se basa el el conocimiento atesorado a lo largo de los años y está bien guardado en el `inconsciente`.
+
+Localización: parte `prefrontal` del cerebro.
+
+Fundamentos:
+
+1. `Reflexionar` de manera `holística`, integral.
+2. `Pensar paradógicamente`. Capacidad para comprender y aceptar la ruta más eficiente.
+3. `Escuchar` de forma `proactiva` y `activa`.
+4. Potenciar `instinto`.
+5. Inteligencia `sensorial`.
+
 # 20. Talento
 Alfons Rovira, [22.12.16 06:26]
 
