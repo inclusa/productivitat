@@ -24,6 +24,8 @@ Fundamentos:
 4. Potenciar `instinto`.
 5. Inteligencia `sensorial`.
 
+— Malcom Gladwell. 2006. Inteligencia intuitiva. Taurus.
+
 # 20. Talento
 Alfons Rovira, [22.12.16 06:26]
 
