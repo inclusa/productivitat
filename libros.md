@@ -29,6 +29,7 @@
 15. [Malcolm Gladwell. 2013. David y Goliat. Taurus. ISBN 9788430607297](http://www.casadellibro.com/libro-david-y-goliat/9788430607297/2212410)
 16. [Fuera de serie: Por qué unas personas tienen éxito y otras no](http://www.casadellibro.com/libro-fueras-de-serie-por-que-unas-personas-tienen-exito-y-otras-no/9788430606856/1239077)
 17. [Malcolm Gladwell. 2006. Inteligencia intuitiva. Taurus](https://www.amazon.es/dp/B00E5X6VNS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+18. [Daniel T. Jones (Autor), James P. Womack (Autor), Emili Atmetlla (Traductor). Lean Thinking: Cómo utilizar el pensamiento Lean para eliminar los despilfarros y crear valor en la empresa. Gestión 2000](http://www.planetadelibros.com/libro-lean-thinking/61402#soporte/61402)
 
 
 # Websites
@@ -93,3 +94,4 @@
 
 <img src="https://images-eu.ssl-images-amazon.com/images/I/410VHsdLhkL._SY346_.jpg" width=400>
 
+<img src="http://www.planetadelibros.com/libro-lean-thinking/61402#soporte/61402" width=400>
