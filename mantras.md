@@ -5,7 +5,7 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
-# 21. Inteligencia intuitiva
+# 22. Inteligencia intuitiva
 Alfons Rovira, [23.12.16 06:25]
 
 `Inteligencia intuitiva`: capacidad de determinar qué es lo más importante en poco tiempo. Es la capacidad dejar valorar a la conciencia todo aquello que ya sabemos, cuando vamos resolviendo un problema y tomar decisiones con extraordinaria rapidez.
@@ -26,7 +26,7 @@ Fundamentos:
 
 — Malcom Gladwell. 2006. Inteligencia intuitiva. Taurus.
 
-# 20. Talento
+# 21. Talento
 Alfons Rovira, [22.12.16 06:26]
 
 1. El entorno y las circunstancias son importantes para el desarrollo de habilidades. (Malcolm Gladwell. Fuera de serie)
