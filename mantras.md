@@ -236,7 +236,7 @@ Las personas que saben controlar su experiencia interna son capaces de determina
 Flow (Fluir). Una psicologia de la felicidad. Kairós. 1997.
 
 
-# 9. Efectivdad
+# 9. Efectividad
 Alfons Rovira, [09.12.16 06:50]
 
 Los siete hàbitos de las personas altamente efectivas:
@@ -255,7 +255,7 @@ B. Victoria pública (colectiva)
 
 7. Afila la sierra: descansa
 
-—Steaphen Covey
+— Stephen Covey. 2011. Siete hábitos de las personas altamente efectivas. Paidos Ibérica.
 
 
 # 8. Experiencia
@@ -308,7 +308,7 @@ Alfons Rovira, [03.12.16 06:19]
 7. Resultados > Tiempo. Mide tus resultados, no el tiempo invertido
 8. Fortalezas > Debiliades. Invierte en fortalezas, evita tus debilidades
 
-— Javier Cristóbal
+— Javier Cristóbal. Resultados ágiles.
 
 # 4. Valores
 Alfons Rovira, [03.12.16 06:19]
