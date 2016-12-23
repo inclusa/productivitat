@@ -28,6 +28,7 @@
 14. [Anthony Robbins.i 2007. Despertando al gigante interior. Grijalbo Mondadori. ISBN 9789707807150](http://www.casadellibro.com/libro-despertando-al-gigante-interior/9789707807150/2333273)
 15. [Malcolm Gladwell. 2013. David y Goliat. Taurus. ISBN 9788430607297](http://www.casadellibro.com/libro-david-y-goliat/9788430607297/2212410)
 16. [Fuera de serie: Por qué unas personas tienen éxito y otras no](http://www.casadellibro.com/libro-fueras-de-serie-por-que-unas-personas-tienen-exito-y-otras-no/9788430606856/1239077)
+17. [Malcolm Gladwell. 2006. Inteligencia intuitiva. Taurus](https://www.amazon.es/dp/B00E5X6VNS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 
 # Websites
@@ -89,4 +90,6 @@
 <img src="http://image7.casadellibro.com/a/l/t1/97/9788430607297.jpg" width=400>
 
 <img src="http://image6.casadellibro.com/a/l/t1/56/9788430606856.jpg" width=400>
+
+<img src="https://images-eu.ssl-images-amazon.com/images/I/410VHsdLhkL._SY346_.jpg" width=400>
 
