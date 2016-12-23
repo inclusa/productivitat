@@ -94,4 +94,4 @@
 
 <img src="https://images-eu.ssl-images-amazon.com/images/I/410VHsdLhkL._SY346_.jpg" width=400>
 
-<img src="http://www.planetadelibros.com/libro-lean-thinking/61402#soporte/61402" width=400>
+<img src="http://static2.planetadelibros.com/usuaris/libros/fotos/62/m_libros/lean-thinking_9788498750218.jpg" width=400>
