@@ -5,6 +5,46 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+
+# 23. mentalidad
+Alfons Rovira, [24.12.16 04:50]
+
+**Mentalidad Fija - MF**
+Se caractariza por «creer que tenemos una cuota fija de habilidad y talento», por tanto la persona ha de demostrar que lo tiene. Sólo importa el resultado. De no obtener el recultado esperado la persona se frustra.
+
+**Mentalidad de Crecieminto - MC**
+Se caracteriza por tomar conciencia de que los talentos se pueden desarrollar. Con el tiempo se pueden desarrollar grandes habilidades. Se valora el error y la capacidad de aprender de él. Se centra en el crecimiento mental.
+
+1. Objetivos
+
+**MF**: Mira la inteligencia a toda costa.
+**MC**: Se centra en el crecimiento mental.
+
+2. Esfuerzo
+
+**MF**: Ha de venir de forma natural.
+**MC**: Trabajar duro, el esfuerzo es la clave.
+
+3. Retrocesos
+
+**MF**: Esconde los errores y deficiencias. No proporciona manera de gestionar la dificultad.
+**MC**: Capitaliza los errores y confronta deficiencias. Se centra en el rendimiento, no en las capacidades personales.
+
+— Carol S. Dweck. 2006. Mindset. Universidad de Standford
+
+
+Bien, pues llegamos a una de las grandes claves de la productividad personal, la **gestión del error**.
+
+Carol S. Dweck destila sabiduría y fundamenta estas ideas muy importantes:
+
+- El **error es la clave** el aprendizaje, en el crecimiento.
+- La **gestión del fracaso** determina el **éxito**.
+- La dotación genética en la inteligencia está bien, pero tiene mucha más importancia el **desarrollo personal**.
+
+Por esta razón debemos perder el miedo a hacer el ridículo, pues este miedo nos **impide cometer errores** y **aprender de ellos**.
+
+
+
 # 22. Inteligencia intuitiva
 Alfons Rovira, [23.12.16 06:25]
 
