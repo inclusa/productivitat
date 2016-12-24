@@ -1,4 +1,7 @@
-# Productivitat
+# Productividad
+
+[![Markdown](https://img.shields.io/badge/vim-7.4-blue.svg)](http://www.vim.org/)
+[![Markdown](https://img.shields.io/badge/markdon-1.0.1-blue.svg)](https://daringfireball.net/projects/markdown/)
 
 Recopilación de información sobre productividad.
 
