@@ -6,7 +6,7 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 
 
-# 23. mentalidad
+# 23. Mentalidad
 Alfons Rovira, [24.12.16 04:50]
 
 **Mentalidad Fija - MF**
