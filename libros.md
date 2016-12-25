@@ -31,6 +31,7 @@
 17. [Malcolm Gladwell. 2006. Inteligencia intuitiva. Taurus](https://www.amazon.es/dp/B00E5X6VNS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 18. [Daniel T. Jones (Autor), James P. Womack (Autor), Emili Atmetlla (Traductor). Lean Thinking: Cómo utilizar el pensamiento Lean para eliminar los despilfarros y crear valor en la empresa. Gestión 2000](http://www.planetadelibros.com/libro-lean-thinking/61402#soporte/61402)
 19. [Carol S. Dweck. 2006. Mindset. Universidad de Standford](http://mindsetonline.com). [Libro](https://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/1400062756/sr=8-1/qid=1158604938/ref=pd_bbs_1/102-1809568-4984946?ie=UTF8&s=books)
+20. [Angela Lee Duckworth](http://angeladuckworth.com/grit-book/)
 
 # Websites
 
@@ -97,3 +98,5 @@
 <img src="http://static2.planetadelibros.com/usuaris/libros/fotos/62/m_libros/lean-thinking_9788498750218.jpg" width=400>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/514QCKGbJLL._SX326_BO1,204,203,200_.jpg" width=400>
+
+<img src="https://800ceoread.com/system/products/157608/large/Grit.jpg?1464038889" width=400>
