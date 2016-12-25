@@ -27,11 +27,11 @@
 13. [Las claves del éxito de Toyota: 14 principios de gestión del fabricante más grande del mundo](https://www.amazon.es/Las-claves-del-%C3%A9xito-Toyota/dp/8498750741)
 14. [Anthony Robbins.i 2007. Despertando al gigante interior. Grijalbo Mondadori. ISBN 9789707807150](http://www.casadellibro.com/libro-despertando-al-gigante-interior/9789707807150/2333273)
 15. [Malcolm Gladwell. 2013. David y Goliat. Taurus. ISBN 9788430607297](http://www.casadellibro.com/libro-david-y-goliat/9788430607297/2212410)
-16. [Fuera de serie: Por qué unas personas tienen éxito y otras no](http://www.casadellibro.com/libro-fueras-de-serie-por-que-unas-personas-tienen-exito-y-otras-no/9788430606856/1239077)
+16. [Marlcolm Gladwell. 2009. Fuera de serie: Por qué unas personas tienen éxito y otras no](http://www.casadellibro.com/libro-fueras-de-serie-por-que-unas-personas-tienen-exito-y-otras-no/9788430606856/1239077)
 17. [Malcolm Gladwell. 2006. Inteligencia intuitiva. Taurus](https://www.amazon.es/dp/B00E5X6VNS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 18. [Daniel T. Jones (Autor), James P. Womack (Autor), Emili Atmetlla (Traductor). Lean Thinking: Cómo utilizar el pensamiento Lean para eliminar los despilfarros y crear valor en la empresa. Gestión 2000](http://www.planetadelibros.com/libro-lean-thinking/61402#soporte/61402)
 19. [Carol S. Dweck. 2006. Mindset. Universidad de Standford](http://mindsetonline.com). [Libro](https://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/1400062756/sr=8-1/qid=1158604938/ref=pd_bbs_1/102-1809568-4984946?ie=UTF8&s=books)
-20. [Angela Lee Duckworth](http://angeladuckworth.com/grit-book/)
+20. [Angela Lee Duckworth. 2016. Grit. The power of passion and perseverance.](http://angeladuckworth.com/grit-book/)
 
 # Websites
 
