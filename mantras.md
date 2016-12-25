@@ -5,6 +5,19 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+# 24. Determinación
+Alfons Rovira, [25.12.16 06:51]
+
+Estudiamos a profesores novatos trabajando en barrios realmente difíciles, preguntándonos ¿quién será el más efectivo en mejorar los resultados del aprendizaje de sus estudiantes?
+
+En todos esos contextos muy diferentes, surgió una característica como un importante predictor del éxito. Y no fue la inteligencia social. No fue la buena apariencia, la salud física y no fue el C.I.
+
+Fue la determinación.
+
+**La determinación es pasión y perseverancia para alcanzar metas muy a largo plazo**. La determinación es tener resistencia. La determinación es aferrarse a su futuro, día tras día, no solo por la semana, no solo por el mes, sino durante años y trabajando realmente duro para hacer ese futuro una realidad. La determinación es vivir la vida como si fuera una maratón, no una carrera a toda velocidad.
+
+— Angela Lee Duckworth. Grit: The Power of Passion and Perseverance.
+
 
 # 23. Mentalidad
 Alfons Rovira, [24.12.16 04:50]
