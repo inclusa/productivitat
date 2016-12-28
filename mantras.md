@@ -4,7 +4,28 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
-25. PythonZen
+
+# 26. Cuento
+Alfons Rovira, [28.12.16 07:18]
+
+En una pequeña aldea, situada en un desierto, vivía un hombre que cada mañana traía agua desde un manantial ubicado a pocos kilómetros de distancia.
+
+Colocaba dos grandes cántaros a ambos lados de una gruesa barra de madera, que apoyaba a sus hombros.
+
+Uno de los cántaros iba perdiendo agua durante el trayecto, tanta, que al llegar al destino sólo tenía la mitad de su contenido.
+
+Este último cántaro, al pasar los días, se sentía cada vez más y más triste, pues sabía que no estaba cumpliendo con su trabajo. Aún así, no entendía porqué su dueño no lo arreglaba, o directamente lo sustituía por otro.
+
+Finalmente, el cántaro se dirigió al hombre diciendo «Me siento culpable por hacerte perder tiempo y esfuerzo».
+
+El aguador, conmovido lo abrazó y le dijo: «No eres ni mejor ni peor, simplemente eres diferente y justamente por eso te necesito».
+
+Hace tiempo que me dí cuenta de esto. Al ver que salía hierba del lado del camino por el que te sitúas tú, eché unas semillas y han nacido flores.
+
+— Autor desconocido
+
+
+# 25. PythonZen
 Alfons Rovira, [27.12.16 05:18]
 
     1. Bonito mejor que feo.
