@@ -11,4 +11,5 @@ Recopilaciones:
 
 - [Mantras matutinos](./mantras.md): Son ideas sintetizadas que merecen la reflexión mantinal.
 - [Libros](./libros.md): Recopilación de fuentes de conocimiento para produndizar en temas concretos.
-
+- [Escritura](./escritura.md): Recopilación sobre instrumentos de escritura.
+- [Cuadernos](./cuadernos.md): Recopilación sobre cuadernos.
