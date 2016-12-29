@@ -33,6 +33,8 @@
 19. [Carol S. Dweck. 2006. Mindset. Universidad de Standford](http://mindsetonline.com). [Libro](https://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/1400062756/sr=8-1/qid=1158604938/ref=pd_bbs_1/102-1809568-4984946?ie=UTF8&s=books)
 20. [Angela Lee Duckworth. 2016. Grit. The power of passion and perseverance.](http://angeladuckworth.com/grit-book/)
 21. [Alfonso Alcántara. 2015. Superprofesional. Tómate tu vida profesional com algo personal: 6 superpoderes para aprovechar tu talento y alcanzar tus objetivos. Alienta. ISBN 9788415320999](http://yoriento.com/libros/superprofesional/). [Casa del libro](http://www.casadellibro.com/libro-superprofesional-tomate-tu-vida-profesional-como-algo-personal-6-superpoderes-para-aprovechar-tu-talento-y-alcanzar-tus--------objetivos/9788415320999/2422906)
+22. [Pilar Jericó. 2011. La nueva gestión del talento. Construyendo compromiso. Pearson](http://www.pilarjerico.com/la-nueva-gestion-del-talento-construyendo-compromiso)
+
 
 # Websites
 
@@ -103,3 +105,5 @@
 <img src="https://800ceoread.com/system/products/157608/large/Grit.jpg?1464038889" width=400>
 
 <img src="http://image9.casadellibro.com/a/l/t1/99/9788415320999.jpg" width=400>
+
+<img src="https://www.leadersummaries.com/images-resumenes/la-nueva-gestion-del-talento.jpg" width=400>
