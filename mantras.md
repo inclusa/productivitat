@@ -5,7 +5,44 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
-# 26. Cuento
+
+# 27. El leñador - Cuento
+Alfons Rovira, [29.12.16 06:20]
+
+Había una vez un leñador, Álvaro, que se ganaba la vida cortando árboles en el bosque. Un día, conoció a otro leñador, Bartolomé, y acordaron ir juntos al trabajo al día siguiente.
+
+Ambos empezaron la jornada a la misma hora y talaron árboles durante 8 horas en el bosque.
+
+Los dos leñadores eran jóvenes y fuertes, el primer día cortaron 22 árboles.
+
+El segundo día, Álvaro llegó media hora más tarde que Bartolomé, así que sólo trabajo 7 horas y media, mientras que Bartolomé hizo sus 8 horas.
+
+Bartolomé no se atrevió a preguntar nada por el extraño retraso de Álvaro...
+
+Así siguienron durante unos 5 días, los resultados los ponemos en esta tabla:
+
+    Día   1  2  3  4  5
+    ===================
+    Alv. 22 20 20 20 20
+    -------------------
+    Bar. 22 21 19 17 14
+    -------------------
+
+Después de la última jornada, de vuelta a casa, Bartolomé, picado por la curiosidad, preguntó a Álvaro donde estava el secreto de que mantuviera su cuota de talas, mientras que las suyas caían en picado.
+
+Álvaró se lo explicó: «Cada mañana dedico media hora a afilar la sierra, justo lo que me retraso cada día en llegar al bosque; de esta manera mantengo la sierra en condiciones óptimas de trabajo».
+
+«El primer día hicimos el mismo trabajo».
+
+«El segundo día tuve menos tiempo que tú, así que tú talaste más árboles».
+
+«Pero a partir del tercer día mantuve mi cuota miestras que la tuya bajaba cada día porque tu sierra, cada vez más mellada, cortaba peor».
+
+Talar sin descanso sólo nos llevará hasta nuestro máximo nivel de incompetencia.
+
+— Autor desconocido
+
+# 26. Cuento: Los cántaros
 Alfons Rovira, [28.12.16 07:18]
 
 En una pequeña aldea, situada en un desierto, vivía un hombre que cada mañana traía agua desde un manantial ubicado a pocos kilómetros de distancia.
