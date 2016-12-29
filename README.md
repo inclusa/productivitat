@@ -15,3 +15,5 @@ Recopilaciones:
 - [Cuadernos](./cuadernos.md): Recopilación de cuadernos (sin espiral).
 - [Podcast](./podcast.md): Recopilación de podcast productivos citados.
 - [Telegram](./telegram.md): Recopilación de canales sobre productividad productivos citados.
+- [Apps](./apps.md): Recopilación de aplicaciones de smart phones sobre productividad productivos citados.
+- [Procesadores](./procesadores.md): Procesares de texto citados.

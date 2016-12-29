@@ -5,7 +5,7 @@ Esta recopilación surge del grupo de #telegram #AprendiendoGTD.
 
 La idea es dejar constancia de lo más significativo.
 
-
+0. [gtd podcast](http://gettingthingsdone.com/podcasts/)
 1. [Aprendiendo GTD](http://www.aprendiendogtd.com/)
 2. [Think Wasabi](http://thinkwasabi.com/)
 3. [Extreme Productivity](http://productivity-podcast.com/)
