@@ -5,6 +5,35 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+# 29. Talento
+Alfons Rovira, [30.12.16 06:40]
+
+Talento: capacidad que nos hace alcanzar resultados extraordinarios en nuestro trabajo o en nuestra vida privada.
+
+Se puede desarrollar.
+
+Claves:
+
+1. Motivación: pasión que realmetne nos motive.
+2. Saber cómo: perfeccionar hábitos.
+3. Constancia: el talento se materializa en acciones.
+4. Recursos: necesitamos tiempo y medios para formanos.
+
+— Pilar Jericó. 2011. La nueva gestión del talento. Construyendo compromiso. Pearson
+
+
+
+# 28. Objetivos
+Laura, [29.12.2016 22:52]
+
+Los propósitos u objetivos han de ser "SMART"
+
+S - Specific
+M - Measurable
+A - Attainable
+R - Relevantes
+T - Time-bound
+
 
 # 27. El leñador - Cuento
 Alfons Rovira, [29.12.16 06:20]
@@ -79,14 +108,15 @@ Alfons Rovira, [27.12.16 05:18]
 
     10. Los errores nunca deben pasar en silencio. A menos que se silencie explícitamente.
     11. Ante la ambigüedad rechaza la tentación de adivinar.
-    12. Debería haber uno, —y preferiblemente sólo uno--, una forma obvia de hacerlo. Esa manera no puede ser obvia al principio a menos que usted sea holandés.
+    12. Debería haber uno, —y preferiblemente sólo uno--, una forma obvia de hacerlo.
 
-    13. Ahora es mejor que nunca.
-    14. Nunca es a menudo mejor que correcto ahora.
-    15. Si la implementación es difícil de explicar, es una mala idea.
+    13. Esa manera no puede ser obvia al principio a menos que usted sea holandés.
+    14. Ahora es mejor que nunca.
+    15. Nunca es a menudo mejor que correcto ahora.
 
-    16. Si la implementación es fácil de explicar, puede ser una buena idea.
-    17. Espacios entre palabras son una buena idea llamativa, vamos a hacer más de esos!
+    16. Si la implementación es difícil de explicar, es una mala idea.
+    17. Si la implementación es fácil de explicar, puede ser una buena idea.
+    18. Espacios entre palabras son una buena idea llamativa, vamos a hacer más de esos!
 
 — Zen of Python
 
