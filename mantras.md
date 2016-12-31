@@ -4,8 +4,21 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+# 29. Objetivos
+Laura, [31.12.16 07:50]
 
-# 29. Talento
+Plantea tus objetivos de forma inteligente.
+
+Los propósitos y objetivos han de ser SMART
+
+S - Specific
+M - Measurable
+A - Attainable
+R - Relevant
+T - Time-bound
+
+
+# 28. Talento
 Alfons Rovira, [30.12.16 06:40]
 
 Talento: capacidad que nos hace alcanzar resultados extraordinarios en nuestro trabajo o en nuestra vida privada.
@@ -21,18 +34,6 @@ Claves:
 
 — Pilar Jericó. 2011. La nueva gestión del talento. Construyendo compromiso. Pearson
 
-
-
-# 28. Objetivos
-Laura, [29.12.2016 22:52]
-
-Los propósitos u objetivos han de ser "SMART"
-
-S - Specific
-M - Measurable
-A - Attainable
-R - Relevantes
-T - Time-bound
 
 
 # 27. El leñador - Cuento
