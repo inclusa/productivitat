@@ -4,6 +4,26 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+# 30. Decisiones
+Alfons Rovira, [01.01.17 06:26]
+
+La mejor manera de mejorar en nuestra vida es empezar a ser consciente de todas y cada una de las decisiones que tomamos en nuestro día.
+
+1. Las buenas decisiones son fáciles de tomar pero también son fáciles de no tomar.
+
+2. El efecto de tomar o no una decisión puede tener un impacto muy significativo.
+
+3. Nunca es tarde para empezar a cambiar.
+
+4. El tiempo debe actuar en tu favor, por ejemplo, al decidir mejorar una habilidad.
+
+5. Las simples decisiones importan mucho.
+
+El camino del éxito no tiene atajos, es el resultado de una serie de decisiones llevadas a cabo consistentemente.
+
+— Jeff Olson. La ligera ventaja
+
+
 # 29. Objetivos
 Laura, [31.12.16 07:50]
 
