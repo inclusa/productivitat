@@ -35,6 +35,7 @@
 21. [Alfonso Alcántara. 2015. Superprofesional. Tómate tu vida profesional com algo personal: 6 superpoderes para aprovechar tu talento y alcanzar tus objetivos. Alienta. ISBN 9788415320999](http://yoriento.com/libros/superprofesional/). [Casa del libro](http://www.casadellibro.com/libro-superprofesional-tomate-tu-vida-profesional-como-algo-personal-6-superpoderes-para-aprovechar-tu-talento-y-alcanzar-tus--------objetivos/9788415320999/2422906)
 22. [Pilar Jericó. 2011. La nueva gestión del talento. Construyendo compromiso. Pearson](http://www.pilarjerico.com/la-nueva-gestion-del-talento-construyendo-compromiso)
 23. [Jeff Olson. La ligera ventaja](https://www.amazon.com/Ligera-Ventaja-JEFF-OLSON/dp/1935944096)
+24. [Maria Jesús Álvarez Reyes. La inutilidad del sufrimiento. Claves para aprender a vivir de manera positiva](http://www.casadellibro.com/libro-la-inutilidad-del-sufrimiento-claves-para-aprender-a-vivir-de-ma-nera-positiva/9788497342513/999405)
 
 # Websites
 
@@ -109,3 +110,5 @@
 <img src="https://www.leadersummaries.com/images-resumenes/la-nueva-gestion-del-talento.jpg" width=400>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51-cBdbrqwL._SX332_BO1,204,203,200_.jpg" width=400>
+
+<img src="http://image3.casadellibro.com/a/l/t1/13/9788497342513.jpg" width=400>
