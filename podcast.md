@@ -5,6 +5,25 @@ Esta recopilación surge del grupo de #telegram #AprendiendoGTD.
 
 La idea es dejar constancia de lo más significativo.
 
+## Podcast productivos
+
+1. Aprendiendo GTD
+2. Getting Things Done
+3. Mañana Empiezo
+4. Productividad Móvil
+5. Think Wasabi
+6. The Tim Ferriss Show
+7. Productiv in Digitalen Zeiten
+8. [Effizienter Lernen - Arbeiten - Leben](https://selbst-management.biz/)
+9. El Show de Superhábitos
+10. Extreme Productivity
+11. Ninja Evernote
+12. Life habits
+13. El método
+14. The Tim Robbins Podcast
+
+## Podcast citados en el podcast AprendiendoGTD
+
 0. [gtd podcast](http://gettingthingsdone.com/podcasts/)
 1. [Aprendiendo GTD](http://www.aprendiendogtd.com/)
 2. [Think Wasabi](http://thinkwasabi.com/)
