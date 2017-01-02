@@ -19,8 +19,7 @@ La idea es dejar constancia de lo más significativo.
 10. Extreme Productivity
 11. Ninja Evernote
 12. Life habits
-13. El método
-14. The Tim Robbins Podcast
+13. The Tim Robbins Podcast
 
 ## Podcast citados en el podcast AprendiendoGTD
 
