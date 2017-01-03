@@ -4,6 +4,67 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+
+# 31. Estrés
+Alfons Rovira, [03.01.17 06:02]
+
+Ansiedad: Estado de activación, que se produce de forma autónoma, al enfrentarnos a un evento potencialmente amenazante.
+
+Estrés: Ansiedad constante en contextos laborales.
+
+Nuestro cerebro no distingue entre situación de peligro real y pensamiento irracional.
+
+a. Sistema Nervioso Autónomo (SNA): Irracional, emocional, instintos.
+    - Sistema Parasimpático: miedo.
+    - Sistema Simpático: escape-lucha.
+
+b. Sistema Nervioso Central (SNC): Racional, pensamiento, idieas.
+
+El SNA es más primitivo, funciona por debajo (formula pensamientos irracionales, catastrofismo).
+
+El SNC parte racional, control mental sobre el cuerpo.
+
+Idea 0: Controlar el SNA (instintos) mediante el SNC (pensamiento)-
+
+Idea 1: Desconectar el SNC en situaciones que no son de peligro, las cuales producen ansiedad.
+
+La ansiedad conduce al bloqueo, para evitarlo debemos utilizar estrategias indirectas, como estas:
+
+CONDUCTUALES
+
+- Autocontrol emocional fisiológico: Ante el bloqueo en un examen apretar manos para distraer al SNA.
+
+COGNITIVAS
+
+1. Confrontación de ideas irracionales con la realidad.
+
+2. Relajación.
+
+3. Respiración diafragmática: Respirar com la mano en el diafragma.
+
+4. Parada de pensamiento: Para el pensamiento que nos hace sufrir, distraernos con otra cosa.
+
+5. Autoisntrucciones: Órdenes para poner el pensamiento a nuestro favor.
+
+RECURSOS
+
+1. Sentido común, pensamiento lógico
+
+2. Alegria, sentido del humor
+
+3. Empatía
+
+4. Esperanza
+
+5. Ilusión
+
+6. Afectividad
+
+7. Felicidad
+
+— María Jesús Álava. 2003. La inutilidad del sufrimiento. La esfera de los libros. Madrid.
+
+
 # 30. Decisiones
 Alfons Rovira, [01.01.17 06:26]
 
