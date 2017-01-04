@@ -14,9 +14,9 @@ Cada persona en el universo es única, somos un fenómeno que ocurrirá una vez 
 
 2. Aprendizaje ideal
 
-- Adquiere los concimientos de tu profesión
-- 100.000 horas de práctica
-- Experimenta
+    - Adquiere los concimientos de tu profesión
+    - 100.000 horas de práctica
+    - Experimenta
 
 3. Busca un mentor para agilizar aprendizajes
 
@@ -26,9 +26,9 @@ Cada persona en el universo es única, somos un fenómeno que ocurrirá una vez 
 
 6. Desarrollo de la mente intuitiva
 
-- 20.000 mil horas de práctica
-- Se observan cosas que nadie más observa
-- Fluir sin esfuerzo
+    - 20.000 mil horas de práctica
+    - Se observan cosas que nadie más observa
+    - Fluir sin esfuerzo
 
 — Robert Greene. Maestría
 
