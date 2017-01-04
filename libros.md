@@ -36,6 +36,7 @@
 22. [Pilar Jericó. 2011. La nueva gestión del talento. Construyendo compromiso. Pearson](http://www.pilarjerico.com/la-nueva-gestion-del-talento-construyendo-compromiso)
 23. [Jeff Olson. La ligera ventaja](https://www.amazon.com/Ligera-Ventaja-JEFF-OLSON/dp/1935944096)
 24. [Maria Jesús Álvarez Reyes. La inutilidad del sufrimiento. Claves para aprender a vivir de manera positiva](http://www.casadellibro.com/libro-la-inutilidad-del-sufrimiento-claves-para-aprender-a-vivir-de-ma-nera-positiva/9788497342513/999405)
+25. [Robert Greene. Maestría](https://www.amazon.com/Maestr%C3%ADa-definici%C3%B3n-Spanish-Robert-Greene/dp/6074009783)
 
 # Websites
 
@@ -112,3 +113,5 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/51-cBdbrqwL._SX332_BO1,204,203,200_.jpg" width=400>
 
 <img src="http://image3.casadellibro.com/a/l/t1/13/9788497342513.jpg" width=400>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51UWTxHwhOL._SX365_BO1,204,203,200_.jpg" width=400>
