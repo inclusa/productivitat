@@ -5,7 +5,7 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
-32. Maestría
+# 32. Maestría
 Alfons Rovira, [04.01.17 08:10]
 
 Cada persona en el universo es única, somos un fenómeno que ocurrirá una vez en el universo, nuestra composición genética no ha tenido lugar nunca antes, ni se repetirá jamás.
