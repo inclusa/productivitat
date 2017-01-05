@@ -5,6 +5,43 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+# 33. Motivación
+Alfons Rovira, [05.01.17 07:58]
+
+Nuestra curva de aprendizaje hacia la maestría no es una curva recta, donde la relación esfuerzo-habilidad es una relación directamente proporcional.
+
+Idealmente podríamos pensar que a mayor esfuerzo mayor habilidad, pero esto no se cumple así. En realidad aumenta como una escalera.
+
+```
+Esfuerzo
+
+|
+|              ----
+|             /
+|            /
+|        ----
+|       /
+|      /
+|  ----
+| /
+|/
+____________________
+                    Habilidad
+```
+
+3 Mentalidades antimaestría:
+
+1. Aficionado: Abandona pronto el proyecto. No llega al objetivo maestría.
+
+2. Obsesivo: Empieza entregado, muchas horas, muchos recursos, pero abandona después de un par de frustraciones, de ver que no avanza de manera linial. No llega al objetivo maestría.
+
+3. Hacker: Tiene muchas características para llegar al nivel de maestría. Tolerancia a la frustración, capacidad para superar obstáculos. Pero una vez alcanzado cierto nivel no continua aprendiendo. No llega al objetivo maestría.
+
+Mentalidad de maestría: Se orienta al proceso, no al resultado. Probablemente tome años. Cuantifica energía, menos horas, pero lo hace de manera sostenible consistencia, hábito.
+
+Claves para estar motivado
+—George Leonard
+
 # 32. Maestría
 Alfons Rovira, [04.01.17 08:10]
 
