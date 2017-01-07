@@ -5,6 +5,24 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
 
+# 3. MAestría
+Alfons Rovira, [06.01.17 06:41]
+
+5 Claves:
+
+1. Instruction: Instrucción
+
+2. Practica: Práctica
+
+3. Surrender: No hay expertos, sólo aprendices
+
+4. Intencionality: Intencionalidad, visión
+
+5. Edge: Límites, estira tus límites hasta la estupidez
+
+— George Leonard. Mastery
+
+
 # 33. Motivación
 Alfons Rovira, [05.01.17 07:58]
 
