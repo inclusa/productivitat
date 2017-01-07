@@ -38,6 +38,7 @@
 24. [Maria Jesús Álvarez Reyes. La inutilidad del sufrimiento. Claves para aprender a vivir de manera positiva](http://www.casadellibro.com/libro-la-inutilidad-del-sufrimiento-claves-para-aprender-a-vivir-de-ma-nera-positiva/9788497342513/999405)
 25. [Robert Greene. Maestría](https://www.amazon.com/Maestr%C3%ADa-definici%C3%B3n-Spanish-Robert-Greene/dp/6074009783)
 26. [George Leonard. Mastery: The Keys to Success and Long-Term Fulfillment.](https://www.amazon.es/Mastery-Success-Long-Term-Fulfillment-Plume/dp/0452267560/ref=sr_1_1?ie=UTF8&qid=1483600217&sr=8-1&keywords=george+leonard)
+27. [Tim Ferris. Tools of titans](https://toolsoftitans.com/)
 
 
 # Websites
@@ -119,3 +120,5 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/51UWTxHwhOL._SX365_BO1,204,203,200_.jpg" width=400>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51fl2RxTBjL._SX355_BO1,204,203,200_.jpg" width=400>
+
+<img src="https://toolsoftitans.files.wordpress.com/2016/10/cover-book.png" width=400>
