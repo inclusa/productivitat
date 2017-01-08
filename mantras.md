@@ -7,67 +7,63 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 Listado
 
 
-[35. Fluir](#35-fluir)
-
-[34. Maestría](#34-maestría)
-
-[33. Motivación](#33-motivación)
+[33. Fluir](#33-fluir)
 
 [32. Maestría](#32-maestría)
 
-[31. Estrés](#31-estrés)
+[31. Motivación](#31-motivación)
 
-[30. Decisiones](#30-decisiones)
+[30. Maestría](#30-maestría)
 
-[29. Objetivos](#29-objetivos)
+[29. Estrés](#29-estrés)
 
-[28. Talento](#28-talento)
+[28. Decisiones](#28-decisiones)
 
-[27. El leñador - Cuento](#27-el-leñador---cuento)
+[27. Objetivos](#27-objetivos)
 
-[26. Los cántaros - Cuento](#26-los-cántaros---cuento)
+[26. Talento](#26-talento)
 
-[25. PythonZen](#25-pythonzen)
+[25. El leñador - Cuento](#25-el-leñador---cuento)
 
-[24. Determinación](#24-determinación)
+[24. Los cántaros - Cuento](#24-los-cántaros---cuento)
 
-[23. Mentalidad](#23-mentalidad)
+[23. PythonZen](#23-pythonzen)
 
-[22. Inteligencia intuitiva](#22-inteligencia-intuitiva)
+[22. Determinación](#22-determinación)
 
-[21. Talento](#21-talento)
+[21. Mentalidad](#21-mentalidad)
 
-[20. Estrategias](#20-estrategias)
+[20. Inteligencia intuitiva](#20-inteligencia-intuitiva)
 
-[19. Decisiones](#19-decisiones)
+[19. Talento](#19-talento)
 
-[18. Toyota Production System](#18-toyota-production-system)
+[18. Estrategias](#18-estrategias)
 
-[17. Mitos](#17-mitos)
+[17. Decisiones](#17-decisiones)
 
-[16. Metas](#16-metas)
+[16. Toyota Production System](#16-toyota-production-system)
 
-[15. Procesos](#15-procesos)
+[15. Mitos](#15-mitos)
 
-[14. Decisiones](#14-decisiones)
+[14. Metas](#14-metas)
 
-[13. Estrategias](#13-estrategias)
+[13. Procesos](#13-procesos)
 
-[12. Proactividad](#12-proactividad)
+[12. Decisiones](#12-decisiones)
 
-[11. Práctica](#11-práctica)
+[11. Estrategias](#11-estrategias)
 
-[10. Experiencia](#10-experiencia)
+[10. Proactividad](#10-proactividad)
 
-[9. Efectividad](#9-efectividad)
+[9. Práctica](#9-práctica)
 
 [8. Experiencia](#8-experiencia)
 
-[7. Principios](#7-principios)
+[7. Efectividad](#7-efectividad)
 
-[6. Principios](#6-principios)
+[6. Experiencia](#6-experiencia)
 
-[5. Valores](#5-valores)
+[5. Principios](#5-principios)
 
 [4. Valores](#4-valores)
 
@@ -79,7 +75,7 @@ Listado
 
 
 
-# 35. fluir
+# 33. Fluir
 Alfons Rovira, [08.01.17 07:10]
 
 El flujo es la capacidad de concentrar la energía, la capacidad física y la atención en objetivos de nuestra elección y que sentímos que merece la pena realizar-los. Se disfruta cada momento.
@@ -101,7 +97,7 @@ Dicho de otra manera:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/bnwhxbpTM-Q" frameborder="0" allowfullscreen></iframe>
 
-# 34. Maestría
+# 32. Maestría
 Alfons Rovira, [06.01.17 06:41]
 
 5 Claves:
@@ -119,7 +115,7 @@ Alfons Rovira, [06.01.17 06:41]
 — George Leonard. Mastery
 
 
-# 33. Motivación
+# 31. Motivación
 Alfons Rovira, [05.01.17 07:58]
 
 Nuestra curva de aprendizaje hacia la maestría no es una curva recta, donde la relación esfuerzo-habilidad es una relación directamente proporcional.
@@ -156,7 +152,7 @@ Mentalidad de maestría: Se orienta al proceso, no al resultado. Probablemente t
 Claves para estar motivado
 —George Leonard
 
-# 32. Maestría
+# 30. Maestría
 Alfons Rovira, [04.01.17 08:10]
 
 Cada persona en el universo es única, somos un fenómeno que ocurrirá una vez en el universo, nuestra composición genética no ha tenido lugar nunca antes, ni se repetirá jamás.
@@ -183,7 +179,7 @@ Cada persona en el universo es única, somos un fenómeno que ocurrirá una vez 
 
 — Robert Greene. Maestría
 
-# 31. Estrés
+# 29. Estrés
 Alfons Rovira, [03.01.17 06:02]
 
 Ansiedad: Estado de activación, que se produce de forma autónoma, al enfrentarnos a un evento potencialmente amenazante.
@@ -243,7 +239,7 @@ RECURSOS
 — María Jesús Álava. 2003. La inutilidad del sufrimiento. La esfera de los libros. Madrid.
 
 
-# 30. Decisiones
+# 28. Decisiones
 Alfons Rovira, [01.01.17 06:26]
 
 La mejor manera de mejorar en nuestra vida es empezar a ser consciente de todas y cada una de las decisiones que tomamos en nuestro día.
@@ -263,7 +259,7 @@ El camino del éxito no tiene atajos, es el resultado de una serie de decisiones
 — Jeff Olson. La ligera ventaja
 
 
-# 29. Objetivos
+# 27. Objetivos
 Laura, [31.12.16 07:50]
 
 Plantea tus objetivos de forma inteligente.
@@ -277,7 +273,7 @@ R - Relevant
 T - Time-bound
 
 
-# 28. Talento
+# 26. Talento
 Alfons Rovira, [30.12.16 06:40]
 
 Talento: capacidad que nos hace alcanzar resultados extraordinarios en nuestro trabajo o en nuestra vida privada.
@@ -295,7 +291,7 @@ Claves:
 
 
 
-# 27. El leñador - Cuento
+# 25. El leñador - Cuento
 Alfons Rovira, [29.12.16 06:20]
 
 Había una vez un leñador, Álvaro, que se ganaba la vida cortando árboles en el bosque. Un día, conoció a otro leñador, Bartolomé, y acordaron ir juntos al trabajo al día siguiente.
@@ -331,7 +327,7 @@ Talar sin descanso sólo nos llevará hasta nuestro máximo nivel de incompetenc
 
 — Autor desconocido
 
-# 26. Los cántaros - Cuento
+# 24. Los cántaros - Cuento
 Alfons Rovira, [28.12.16 07:18]
 
 En una pequeña aldea, situada en un desierto, vivía un hombre que cada mañana traía agua desde un manantial ubicado a pocos kilómetros de distancia.
@@ -351,7 +347,7 @@ Hace tiempo que me dí cuenta de esto. Al ver que salía hierba del lado del cam
 — Autor desconocido
 
 
-# 25. PythonZen
+# 23. PythonZen
 Alfons Rovira, [27.12.16 05:18]
 
     1. Bonito mejor que feo.
@@ -381,7 +377,7 @@ Alfons Rovira, [27.12.16 05:18]
 — Zen of Python
 
 
-# 24. Determinación
+# 22. Determinación
 Alfons Rovira, [25.12.16 06:51]
 
 Estudiamos a profesores novatos trabajando en barrios realmente difíciles, preguntándonos ¿quién será el más efectivo en mejorar los resultados del aprendizaje de sus estudiantes?
@@ -395,7 +391,7 @@ Fue la determinación.
 — Angela Lee Duckworth. Grit: The Power of Passion and Perseverance.
 
 
-# 23. Mentalidad
+# 21. Mentalidad
 Alfons Rovira, [24.12.16 04:50]
 
 **Mentalidad Fija - MF**
@@ -432,9 +428,7 @@ Carol S. Dweck destila sabiduría y fundamenta estas ideas muy importantes:
 
 Por esta razón debemos perder el miedo a hacer el ridículo, pues este miedo nos **impide cometer errores** y **aprender de ellos**.
 
-
-
-# 22. Inteligencia intuitiva
+# 20. Inteligencia intuitiva
 Alfons Rovira, [23.12.16 06:25]
 
 `Inteligencia intuitiva`: capacidad de determinar qué es lo más importante en poco tiempo. Es la capacidad dejar valorar a la conciencia todo aquello que ya sabemos, cuando vamos resolviendo un problema y tomar decisiones con extraordinaria rapidez.
@@ -455,7 +449,7 @@ Fundamentos:
 
 — Malcom Gladwell. 2006. Inteligencia intuitiva. Taurus.
 
-# 21. Talento
+# 19. Talento
 Alfons Rovira, [22.12.16 06:26]
 
 1. El entorno y las circunstancias son importantes para el desarrollo de habilidades. (Malcolm Gladwell. Fuera de serie)
@@ -467,7 +461,7 @@ Conclusión: las personas no nacen con talento. La habilidad se puede adquirir a
 
 — Daniel Coyle. 2009. Las claves del talento. Planeta
 
-# 20. Estrategias
+# 18. Estrategias
 Alfons Rovira, [21.12.16 06:30]
 
 1. En ocasiones lo que aparenta ser una extrema fortaleza, también es una enorme debilidad. `Tener más recursos no significa necesariamente tener mejores resultados`. Ciertas desventajas pueden convertirse en ventajas, si aprendes a aplicar las estrategias adecuadas.
@@ -481,7 +475,7 @@ Alfons Rovira, [21.12.16 06:30]
 -- Malcolm Gladwell. David y Goliat
 
 
-# 19. Decisiones 
+# 17. Decisiones 
 Alfons Rovira, [18.12.16 05:55]
 
 1. Nuestras deciones y no las condiciones determinan nuestro destino.
@@ -501,7 +495,7 @@ Alfons Rovira, [18.12.16 05:55]
 — Anthony Robbins. Despertando al gigante interior.
 
 
-# 18. Toyota Production System
+# 16. Toyota Production System
 Alfons Rovira, [17.12.16 06:54]
 
 The Toyota Way
@@ -549,7 +543,7 @@ JIT (Flujo, Tracción y Cadencia) y JIDOKA (Cero Defectos) son los pilares de To
 http://www.leanroots.com/toyota-way.html
 
 
-# 17. Mitos
+# 15. Mitos
 Alfons Rovira, [16.12.16 05:30]
 
 6 mitos que impiden obtener buenos resultados.
@@ -564,7 +558,7 @@ Alfons Rovira, [16.12.16 05:30]
 — Gary Keller. Lo único
 
 
-# 16. Metas
+# 14. Metas
 Alfons Rovira, [15.12.16 05:59]
 
 4 ladrones de tiempo
@@ -577,7 +571,7 @@ Alfons Rovira, [15.12.16 05:59]
 — Gary Keller. Lo único
 
 
-# 15. Procesos
+# 13. Procesos
 Alfons Rovira, [14.12.16 05:55]
 
 Kaizen, (改善, japonés) , 改 ('kai') KAI significa 'cambio' o 'acción de corregir', 善 ('zen') ZEN significa 'bueno', podemos traduir como «mejora contínua».
@@ -593,7 +587,7 @@ Es el proceso que, cuando se hace correctamente, hace más humano el lugar de tr
 — Wikipedia
 
 
-# 14. Decisiones
+# 12. Decisiones
 Alfons Rovira, [13.12.16 06:23]
 
 Las decisiones que nos conducen a la meta son fáciles de tomar, pero también son fácilies de no tomar.
@@ -601,7 +595,7 @@ Las decisiones que nos conducen a la meta son fáciles de tomar, pero también s
 — Jeff Olsoon. Cumplir tus metas.
 
 
-# 13. Estrategias
+# 11. Estrategias
 Alfons Rovira, [12.12.16 06:47]
 
 1. Escribe tus objetivos con claridad
@@ -629,7 +623,7 @@ Alfons Rovira, [12.12.16 06:47]
 — Brian Tracy. ¡Tráguese ese sapo! 21 estrategias para tomar decisiones rápidasd y mejorar la eficacia profesional.
 
 
-# 12. Proactividad
+# 10. Proactividad
 Alfons Rovira, [11.12.16 07:00]
 
 Al hombre se le puede arrebatar todo salvo una cosa: la última de las libertades humanas — la elección de la actitud personal ante un conjunto de circunstancias — para decidir su propio camino.
@@ -637,7 +631,7 @@ Al hombre se le puede arrebatar todo salvo una cosa: la última de las libertade
 — Viktor E. Frankl. El hombre en busca de sentido. Herder
 
 
-# 11. Práctica
+# 9. Práctica
 Alfons Rovira, [10.12.16 06:28]
 
 La práctica deliberada son una serie de hábitos diseñados especialmente para mejorar nuestro desempeño. Puede repetirse muchas veces. La opinición externa sobre los resultados está disponible contínuamente. Es muy exigente a nivel mental. No se caractariza por ser agradable.
@@ -656,7 +650,7 @@ No todo el mundo está dispuesto a llegar al límite, lo que supone una ventaja 
 (Analista y columnista de la revista Fortune).
 
 
-# 10. Experiencia
+# 8. Experiencia
 Alfons Rovira, [08.12.16 06:45]
 
 Las personas que saben controlar su experiencia interna son capaces de determinar la calidad de sus vidas.
@@ -665,7 +659,7 @@ Las personas que saben controlar su experiencia interna son capaces de determina
 Flow (Fluir). Una psicologia de la felicidad. Kairós. 1997.
 
 
-# 9. Efectividad
+# 7. Efectividad
 Alfons Rovira, [09.12.16 06:50]
 
 Los siete hàbitos de las personas altamente efectivas:
@@ -687,7 +681,7 @@ B. Victoria pública (colectiva)
 — Stephen Covey. 2011. Siete hábitos de las personas altamente efectivas. Paidos Ibérica.
 
 
-# 8. Experiencia
+# 6. Experiencia
 Alfons Rovira, [08.12.16 06:45]
 
 Las personas que saben controlar su experiencia interna son capaces de determinar la calidad de sus vidas.
@@ -696,22 +690,7 @@ Las personas que saben controlar su experiencia interna son capaces de determina
 
 Flow (Fluir). Una psicologia de la felicidad. Kairós. 1997.
 
-
-# 7. Principios
-Alfons Rovira, [06.12.16 07:31]
-
-1. Acción 80/20
-2. Aprendizaje contínuo
-3. Entrega valor incremental
-4. Menos es más
-5. Añade límites
-6. Fija el tiempo, flexibiliza el alcance
-7. Desarrolla un ritmo de resultados
-
-— Javier Cristóbal. Resultados ágiles.
-
-
-# 6. Principios
+# 5. Principios
 Alfons Rovira, [04.12.16 08:28]
 
 1. Acción 80/20
@@ -721,21 +700,6 @@ Alfons Rovira, [04.12.16 08:28]
 5. Añade límites
 6. Fija el tiempo, flexibiliza el alcance
 7. Desarrolla un ritmo de resultados
-
-— Javier Cristóbal. Resultados ágiles.
-
-
-# 5. Valores
-Alfons Rovira, [03.12.16 06:19]
-
-1. Acción > Parálisis. Ante la duda actúa
-2. Aproximación > Resultados. Mira la pelota, no el marcador
-3. Energía > Tiempo. Prima la calidad de horas, no la cantidad
-4. Importancia > Cantidad. No hagas por hacer, crea valor
-5. Bueno > Perfecto. Hecho es mejor que perfecto
-6. Crecimiento > Fijo. Nunca des nada por sentado
-7. Resultados > Tiempo. Mide tus resultados, no el tiempo invertido
-8. Fortalezas > Debiliades. Invierte en fortalezas, evita tus debilidades
 
 — Javier Cristóbal. Resultados ágiles.
 
