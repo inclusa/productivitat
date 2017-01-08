@@ -400,17 +400,17 @@ Se caractariza por «creer que tenemos una cuota fija de habilidad y talento», 
 **Mentalidad de Crecieminto - MC**
 Se caracteriza por tomar conciencia de que los talentos se pueden desarrollar. Con el tiempo se pueden desarrollar grandes habilidades. Se valora el error y la capacidad de aprender de él. Se centra en el crecimiento mental.
 
-## 1. Objetivos
+## Objetivos
 
 - **MF**: Mira la inteligencia a toda costa.
 - **MC**: Se centra en el crecimiento mental.
 
-## 2. Esfuerzo
+## Esfuerzo
 
 - **MF**: Ha de venir de forma natural.
 - **MC**: Trabajar duro, el esfuerzo es la clave.
 
-## 3. Retrocesos
+## Retrocesos
 
 - **MF**: Esconde los errores y deficiencias. No proporciona manera de gestionar la dificultad.
 - **MC**: Capitaliza los errores y confronta deficiencias. Se centra en el rendimiento, no en las capacidades personales.
