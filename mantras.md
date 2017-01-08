@@ -4,6 +4,12 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+Listado
+
+
+[34. Maestría][34]
+
+
 # 35. fluir
 Alfons Rovira, [08.01.17 07:10]
 
@@ -26,7 +32,7 @@ Dicho de otra manera:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/bnwhxbpTM-Q" frameborder="0" allowfullscreen></iframe>
 
-# 34. Maestría
+# [34]. Maestría
 Alfons Rovira, [06.01.17 06:41]
 
 5 Claves:
