@@ -4,8 +4,29 @@ Esta es una recopilación de ideas, sentencias que compartimos en el grup de Tel
 
 No son más que ideas, aportaciones de distintos autores para recordar e ir reflexionando e interiorizando a lo largo de la mañana.
 
+# 35. fluir
+Alfons Rovira, [08.01.17 07:10]
 
-# 3. MAestría
+El flujo es la capacidad de concentrar la energía, la capacidad física y la atención en objetivos de nuestra elección y que sentímos que merece la pena realizar-los. Se disfruta cada momento.
+
+Para que se dé el flujo debemos tener:
+
+1. Objetivos claros
+2. Feedback
+3. Habilidades y destrezas equilibradas con el reto
+
+Dicho de otra manera:
+
+1. Saber que una cosa se puede controlar aquello que hacemos
+2. Conciencia de saber cómo hacerlo
+
+— Mihail Csikszenmihályi. 1997. Flow (Flujo). Una psicología de la felicidad. Kairós.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0yBjhNeKUrU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bnwhxbpTM-Q" frameborder="0" allowfullscreen></iframe>
+
+# 34. Maestría
 Alfons Rovira, [06.01.17 06:41]
 
 5 Claves:
