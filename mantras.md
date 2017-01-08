@@ -7,8 +7,7 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 Listado
 
 
-[34. Maestría][#34-Maestría]
-
+[34. Maestría](#34-Maestría])
 
 # 35. fluir
 Alfons Rovira, [08.01.17 07:10]
