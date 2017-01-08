@@ -8,39 +8,73 @@ Listado
 
 
 [35. fluir](#35-fluir)
+
 [34. Maestría](#34-maestría)
+
 [33. Motivación](#33-motivación)
+
 [32. Maestría](#32-maestría)
+
 [31. Estrés](#31-estrés)
+
 [30. Decisiones](#30-decisiones)
+
 [29. Objetivos](#29-objetivos)
+
 [28. Talento](#28-talento)
+
 [27. El leñador - Cuento](#27-el-leñador--cuento)
+
 [26. Los cántaros - Cuento](#26-los-cántaros--cuento)
+
 [25. PythonZen](#25-pythonzen)
+
 [24. Determinación](#24-determinación)
+
 [23. Mentalidad](#23-mentalidad)
+
 [22. Inteligencia intuitiva](#22-inteligencia-intuitiva)
+
 [21. Talento](#21-talento)
+
 [20. Estrategias](#21-estrategias)
+
 [19. Decisiones](#19-decisiones)
+
 [18. Toyota Production System](18-toyota-production-system)
+
 [17. Mitos](#17-mitos)
+
 [16. Metas](#16-metas)
+
 [15. Procesos](#15-procesos)
+
 [14. Decisiones](#14-decisiones)
+
 [13. Estrategias](#13-estrategias)
+
 [12. Proactividad](#12-proactividad)
+
 [11. Práctica](#11-practica)
+
 [10. Experiencia](#10-experiencia)
+
 [9. Efectividad](#9-efectividad)
+
 [8. Experiencia](#8-experiencia)
+
 [7. Principios](#7-principios)
+
 [6. Principios](#6-principios)
+
 [5. Valores](#5-valores)
+
 [4. Valores](#4-valores)
+
 [3. Autorregulación](#3-autorregulación)
+
 [2. Automotivación](#2-automotivación)
+
 [1. Automotivación](#1-Automotivación)
 
 
