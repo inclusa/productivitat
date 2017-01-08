@@ -23,9 +23,9 @@ Listado
 
 [28. Talento](#28-talento)
 
-[27. El leñador - Cuento](#27-el-leñador--cuento)
+[27. El leñador - Cuento](#27-el-leñador---cuento)
 
-[26. Los cántaros - Cuento](#26-los-cántaros--cuento)
+[26. Los cántaros - Cuento](#26-los-cántaros---cuento)
 
 [25. PythonZen](#25-pythonzen)
 
@@ -37,11 +37,11 @@ Listado
 
 [21. Talento](#21-talento)
 
-[20. Estrategias](#21-estrategias)
+[20. Estrategias](#20-estrategias)
 
 [19. Decisiones](#19-decisiones)
 
-[18. Toyota Production System](18-toyota-production-system)
+[18. Toyota Production System](#18-toyota-production-system)
 
 [17. Mitos](#17-mitos)
 
@@ -55,7 +55,7 @@ Listado
 
 [12. Proactividad](#12-proactividad)
 
-[11. Práctica](#11-practica)
+[11. Práctica](#11-práctica)
 
 [10. Experiencia](#10-experiencia)
 
@@ -75,7 +75,7 @@ Listado
 
 [2. Automotivación](#2-automotivación)
 
-[1. Automotivación](#1-Automotivación)
+[1. Automotivación](#1-automotivación)
 
 
 
