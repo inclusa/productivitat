@@ -6,7 +6,7 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
-[34. Conciencia](#34-concicncia)
+[34. Conciencia](#34-conciencia)
 
 [33. Fluir](#33-fluir)
 
