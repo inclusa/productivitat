@@ -6,6 +6,7 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[34. Conciencia](#34-concicncia)
 
 [33. Fluir](#33-fluir)
 
@@ -73,6 +74,26 @@ Listado
 
 [1. Automotivación](#1-automotivación)
 
+
+# 34. Conciencia
+Alfons Rovira, [10.01.17 05:22]
+
+1. La conciencia es un espejo que permite que todas las imagenes aparezcan.
+
+2. Detrás de cada pensamiento hay una conciencia pura.
+
+3. La conciencia no se puede corromper por el odio ni por los celos. Esta es la base para entrenar la mente.
+
+4. El entrenamiento de la mente está basado en  la idea de dos factores mentales opuestos que no pueden suceder al mismo tiempo como el amor y el odio.
+
+5. Hemos de centrar la atención en el interior.
+
+6. Una mente distraida no podrá cultivar nunca nada.
+
+7. El entrenamiento mental importa. Esto es lo que determinará la calidad de cada momento en la vida.
+
+— Matthieu Ricard
+Biólogo (Instituto Pasteur) y monge budista
 
 
 # 33. Fluir
