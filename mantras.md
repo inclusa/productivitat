@@ -6,6 +6,8 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[35. Preocupaciones](#35-preocupaciones)
+
 [34. Conciencia](#34-conciencia)
 
 [33. Fluir](#33-fluir)
@@ -74,6 +76,28 @@ Listado
 
 [1. Automotivación](#1-automotivación)
 
+
+# 35. Preocupaciones
+
+Alfons Rovira, [11.01.17 06:26]
+#mantra_matutino
+#preocupaciones
+
+Por naturaleza tendemos a preocuparnos más de lo normla por las situaciones que vivimos cada día.
+
+1. La mejor manera de prepararnos para el futuro es enfocarnos exclusivamente en las tareas de cada día.
+
+2. Establecer acciones en que faciliten tus objetivo, sin distraerte en pensamientos futuros o pasados.
+
+3. El compromiso en las tareas del ahora será lo que nos orientará en conseguir los resultados del futuro.
+
+4. Cuando estés preocupado piérdete en acciones que aporten algo significativo a tu vida personal o profesional, no se pueden pensar al mismo tiempo en dos cosas.
+
+5. Recuerda la ley de los promedios: Hay eventos cuya provabilidad es casi nula. De 36 millones de vuelos sólo 29 terminan en accidente.
+
+6. No cambies trabajo por salud, pues tu salud vale mucho más que todo el dinero que puedas ganar. Hay otras formas de generar riqueza: ingresos pasivos, debemos manejar nuestros recursos de forma inteligente.
+
+— Dale Carnegie. 2006. Cómo suprimir las  preocupaciones y disfritar de la vida. EDHASA.
 
 # 34. Conciencia
 Alfons Rovira, [10.01.17 05:22]
