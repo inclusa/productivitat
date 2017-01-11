@@ -39,7 +39,7 @@
 25. [Robert Greene. Maestría](https://www.amazon.com/Maestr%C3%ADa-definici%C3%B3n-Spanish-Robert-Greene/dp/6074009783)
 26. [George Leonard. Mastery: The Keys to Success and Long-Term Fulfillment.](https://www.amazon.es/Mastery-Success-Long-Term-Fulfillment-Plume/dp/0452267560/ref=sr_1_1?ie=UTF8&qid=1483600217&sr=8-1&keywords=george+leonard)
 27. [Tim Ferris. Tools of titans](https://toolsoftitans.com/)
-
+28. [ Dale Carnegie. 2006. Cómo suprimir las  preocupaciones y disfritar de la vida. EDHASA.](http://www.casadellibro.com/libro-como-suprimir-las-preocupaciones-y-disfrutar-de-la-vida-3-ed/9788435017527/113123)
 
 # Websites
 
@@ -122,3 +122,5 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/51fl2RxTBjL._SX355_BO1,204,203,200_.jpg" width=400>
 
 <img src="https://toolsoftitans.files.wordpress.com/2016/10/cover-book.png" width=400>
+
+<img src="https://www.leadersummaries.com/images-resumenes/vr/como-suprimir-las-preocupaciones-y-disfrutar-de-la-vida.jpg" width=400>
