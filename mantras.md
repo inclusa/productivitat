@@ -6,6 +6,8 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[36. Iluminación](#36-iluminacion)
+
 [35. Preocupaciones](#35-preocupaciones)
 
 [34. Conciencia](#34-conciencia)
@@ -77,11 +79,36 @@ Listado
 [1. Automotivación](#1-automotivación)
 
 
+#36. Iluminación
+Alfons Rovira, [12.01.17 06:29]
+
+La iluminación es recuperar la conciencia del Ser y residir en ese estado de «sensación-realización». Estado de conexión con algo inconmensurable e indestructible.
+
+1. El mayor obstáculo de la ilumnación es ser incapaz de dejar de pensar, el ruido mental.
+
+2.Tú no eres tu mente. Tu mente sólo es un instrumento.
+
+3. Debes aprender a escuchar tu mente sin juzgarla.
+
+4. Escuchar el pensamiento es el principio del fin del pensamiento compulsivo e involuntario.
+
+5. Aprende a no identificarte con tu mente.
+
+6. El ego es tu actividad mental.
+
+7. La no-mente es conciencia sin pensamiento.
+
+8. Sólo la no-mente permite pensar creativamente. El pensamiento por sí sólo, desconectado de la conciencia se convierte en algo estéril.
+
+9. La emoción surge en el punto en el que el cuerpo y la mente se encuentran. La emoción es el reflejo de la mente en el cuerpo.
+
+10. Adquiere el hábito de preguntarte: ¿Qué está pasando dentro de mí en este momento?
+
+— Eckhart Tolle. 2014. Practicando el poder del AHORA. Gaia.
+
 # 35. Preocupaciones
 
 Alfons Rovira, [11.01.17 06:26]
-#mantra_matutino
-#preocupaciones
 
 Por naturaleza tendemos a preocuparnos más de lo normla por las situaciones que vivimos cada día.
 
@@ -93,7 +120,7 @@ Por naturaleza tendemos a preocuparnos más de lo normla por las situaciones que
 
 4. Cuando estés preocupado piérdete en acciones que aporten algo significativo a tu vida personal o profesional, no se pueden pensar al mismo tiempo en dos cosas.
 
-5. Recuerda la ley de los promedios: Hay eventos cuya provabilidad es casi nula. De 36 millones de vuelos sólo 29 terminan en accidente.
+5. Recuerda la ley de los promedios: Hay eventos cuya probabilidad es casi nula. De 36 millones de vuelos sólo 29 terminan en accidente.
 
 6. No cambies trabajo por salud, pues tu salud vale mucho más que todo el dinero que puedas ganar. Hay otras formas de generar riqueza: ingresos pasivos, debemos manejar nuestros recursos de forma inteligente.
 
