@@ -81,7 +81,7 @@ Listado
 [1. Automotivación](#1-automotivación)
 
 
-# 37. Deciosiones
+# 37. Decisiones
 
 Alfons Rovira, [14.01.17 05:54]
 
