@@ -82,6 +82,7 @@ Listado
 
 
 # 37. Deciones
+
 Alfons Rovira, [14.01.17 05:54]
 
 1. Más es menos: la abundancia se convierte en tirania
@@ -102,7 +103,8 @@ Alfons Rovira, [14.01.17 05:54]
 
 — Barry Schwart. The Paradox of Choice
 
-#36. Iluminación
+# 36. Iluminación
+
 Alfons Rovira, [12.01.17 06:29]
 
 La iluminación es recuperar la conciencia del Ser y residir en ese estado de «sensación-realización». Estado de conexión con algo inconmensurable e indestructible.
