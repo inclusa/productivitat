@@ -6,9 +6,9 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
-[37. Dedisiones](#37-decisiones)
+[37. Decisiones](#37-decisiones)
 
-[36. Iluminación](#36-iluminacion)
+[36. Iluminación](#36-iluminación)
 
 [35. Preocupaciones](#35-preocupaciones)
 
@@ -81,7 +81,7 @@ Listado
 [1. Automotivación](#1-automotivación)
 
 
-# 37. Deciones
+# 37. Deciosiones
 
 Alfons Rovira, [14.01.17 05:54]
 
