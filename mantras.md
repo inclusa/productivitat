@@ -6,6 +6,8 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[37. Dedisiones](#37-decisiones)
+
 [36. Iluminación](#36-iluminacion)
 
 [35. Preocupaciones](#35-preocupaciones)
@@ -78,6 +80,27 @@ Listado
 
 [1. Automotivación](#1-automotivación)
 
+
+# 37. Deciones
+Alfons Rovira, [14.01.17 05:54]
+
+1. Más es menos: la abundancia se convierte en tirania
+
+2. No averigües cuántos objetivos tienes, simplemente elige el que sea razonablemente suficiente para tí
+
+3. Tener un punto de referencia hace más fácil la elección
+
+4. Cuando tienes muchas opciones el punto de arrepentimiento es muy alto
+
+5. El arrepentimiento en decisiones menores, de no interacción social, envenena las relaciones
+
+6. A corto plazo nos arrepentimos de las cosas que hemos hecho, a largo plazo nos arrepentimos de las cosas que no hemos hecho
+
+7. En las sociedades modernas no se enseñan a vivir, se pretende que el individuo extraiga la mejor opción de sí mismo, lo que supone un gran desgaste por necesidad elección constante
+
+8. Controlar nuestra vida es una fuente de felicidad
+
+— Barry Schwart. The Paradox of Choice
 
 #36. Iluminación
 Alfons Rovira, [12.01.17 06:29]
