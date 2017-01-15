@@ -48,6 +48,10 @@ La idea es dejar constancia de lo más significativo.
 3. [Calendario minimalista](http://jennymustard.com/interior-my-printable-minimalist-calendar-2017/)
 
 
+# Yoga
+
+1. [kundalini Yoga](http://www.hispayoga.com/)
+
 # Apps para meditación (iOS)
 
 1. Calm: Meditation to Relax, Focus & Sleep Better by Calm.com
