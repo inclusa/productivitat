@@ -39,3 +39,7 @@ La idea es dejar constancia de lo más significativo.
 # Meditación
 
 1. [alvarogomez.org](http://alvarogomez.org/grupomindfulnessonline/)
+
+# Blogs minimalistas
+
+1. [http://valedeoro.es/](http://valedeoro.es/)
