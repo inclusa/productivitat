@@ -43,3 +43,4 @@ La idea es dejar constancia de lo más significativo.
 # Blogs minimalistas
 
 1. [http://valedeoro.es/](http://valedeoro.es/)
+2. [http://jennymustard.com/](http://jennymustard.com/)
