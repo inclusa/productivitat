@@ -36,3 +36,6 @@ La idea es dejar constancia de lo más significativo.
 10. [Sergio Fernández](http://www.pensamientopositivo.org/)
 11. [Radio Vida Revolucionaria](http://www.vidarevolucionaria.com/category/radiovidarevolucionaria/)
 
+# Meditación
+
+1. [alvarogomez.org](http://alvarogomez.org/grupomindfulnessonline/)
