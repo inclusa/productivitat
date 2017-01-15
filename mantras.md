@@ -6,6 +6,8 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[38. Meditación](#38-meditación)
+
 [37. Decisiones](#37-decisiones)
 
 [36. Iluminación](#36-iluminación)
@@ -80,6 +82,23 @@ Listado
 
 [1. Automotivación](#1-automotivación)
 
+
+# 38. Meditación
+
+Alfons Rovira, [15.01.17 08:46]
+
+Beneficios de la meditación:
+
+1. Capacidad de tranquilizarnos
+
+2. Descenso del estrés
+
+3. Desarrollo de la atención
+
+4. Percepción del detalle y la memoria
+
+— Linda Lanteri
+Experta en aprendizaje social y emocional
 
 # 37. Decisiones
 
