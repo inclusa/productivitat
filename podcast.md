@@ -46,3 +46,19 @@ La idea es dejar constancia de lo más significativo.
 1. [http://valedeoro.es/](http://valedeoro.es/)
 2. [http://jennymustard.com/](http://jennymustard.com/)
 3. [Calendario minimalista](http://jennymustard.com/interior-my-printable-minimalist-calendar-2017/)
+
+
+# Apps para meditación (iOS)
+
+1. Calm: Meditation to Relax, Focus & Sleep Better by Calm.com
+https://appsto.re/es/QZpfI.i
+
+2. Flowing ~ Meditation & Mindfulness by Franz Bruckhoff
+https://appsto.re/es/KLbIdb.i
+
+3. Windy ~ Sleep Relax Meditate & white noise sounds by Franz Bruckhoff
+https://appsto.re/es/ryMjY.i
+
+En Español:
+Hacia La Calma by Maria Rosa Valdes
+https://appsto.re/es/eVJy2.i
