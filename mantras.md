@@ -6,7 +6,10 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
-[39. Actitud](39-actitud)
+
+[40. Obstáculos](#40-obstaculos)
+
+[39. Actitud](#39-actitud)
 
 [38. Meditación](#38-meditación)
 
@@ -83,6 +86,35 @@ Listado
 [2. Automotivación](#2-automotivación)
 
 [1. Automotivación](#1-automotivación)
+
+
+# 40. Obstáculos
+Alfons Rovira, [17.01.17 06:10]
+
+En la vida todos nos vamos a tener que enfrentar a obstáculos, pero lo más importante no son los obstáculos en sí, sino cómo los vemos, cómo reaccionamos ante ellos.
+
+Tenemos la libertad de desición en cada decisión de nuestra vida, pueden quinarnoslo todo pero nunca van a controlar nuestros pensamientos, creencias y reacciones.
+
+Claves
+
+1. Percibir los obstáculos de manera positiva
+
+2. Controlar nuestra emociones
+
+3. Actuar en busca de soluciones
+
+4. Persistir
+
+5. Voluntad: poder interior que no puede ser afectado por el mundo exterior
+
+6. Determinación para superar los obstáculos
+
+7. No debemos esperar nada de la vida, es la vida la que siempre espera algo de nosotros.
+
+El obstáculo es el camino.
+
+
+— Ryan Holiday. El obstáculo es el camino
 
 
 # 39. Actitud
