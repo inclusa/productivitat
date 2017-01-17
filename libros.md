@@ -43,6 +43,7 @@
 29. [Eckhart Tolle. 2014. Practicando el poder del AHORA. Gaia.](http://www.casadellibro.com/libro-practicando-el-poder-del-ahora-ensenanzas-meditaciones-y-ejerci-cios-esenciales-extraidos-de-el-poder-del-ahora/9788484452744/1483151)
 30. [Barry Schartz. The Paradox of Choice](https://www.amazon.es/Paradox-Choice-More-Less-P-S/dp/0060005696)
 31. [Greg McKeown. Essencialism](http://gregmckeown.com/book/)
+32. [Ryan Holiday. The obstacle is the way](https://www.amazon.com/Obstacle-Way-Ancient-Adversity-Advantage-ebook/dp/B00IX49OS4)
 
 # Websites
 
@@ -133,3 +134,5 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/412jfk0fhkL._SX312_BO1,204,203,200_.jpg" width=400>
 
 <img src="http://gregmckeown.com/wp-content/uploads/2011/08/book-1225x1600.jpg" width=400>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/517Zp0Ul6OL.jpg" width=400>
