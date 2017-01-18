@@ -6,6 +6,7 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[41. Pensamiento](#41-pensamiento)
 
 [40. Obstáculos](#40-obstaculos)
 
@@ -86,6 +87,41 @@ Listado
 [2. Automotivación](#2-automotivación)
 
 [1. Automotivación](#1-automotivación)
+
+
+# 41. pensamiento
+Alfons Rovira, [18.01.17 06:25]
+
+1. Tenemos dos sistemas de pensamiento: rápido y lento.
+
+- Sistema 1: Capta rápidamente, pero genera percepcioens erróneas.
+- Sistema 2: Lento, menesita más recursos, queda en modo mínimo esfuerzo.
+
+2. Memoria asociativa o Priming
+
+- Asociamos palabras con intenciones, las palabras alteran nuestra efectividad, no somos conscientes de ello.
+
+3. Efecto Halo
+
+- Asociaciones positivas o negativas a algo por su aspecto, sin conocierlo.
+
+4. Ley de los pequeños números
+
+- No podemos generalizar a partir de muestras pequeñas pero lo hacemos.
+
+5. Heurística de la disponibilidad
+
+- Damos más importancia a la información que nos llega por alguien cercano que a la que nos llega mediante un amplio estudio.
+
+6. Heurística de la representabilidad
+
+- No nos basamos en la lógica, sino en la percepción física de una persona para extraer concluisones.
+
+7. Sesgo retrospectivo
+
+- Atribución basada en el resultado. El resultado es obvio visto cuando ha pasado, pero tal vez hubiéramos cometido el mismo error si no conociéramos el resultado.
+
+—Daniel Hahneman. Pensar rápido, pensar despacio.
 
 
 # 40. Obstáculos
