@@ -44,6 +44,7 @@
 30. [Barry Schartz. The Paradox of Choice](https://www.amazon.es/Paradox-Choice-More-Less-P-S/dp/0060005696)
 31. [Greg McKeown. Essencialism](http://gregmckeown.com/book/)
 32. [Ryan Holiday. The obstacle is the way](https://www.amazon.com/Obstacle-Way-Ancient-Adversity-Advantage-ebook/dp/B00IX49OS4)
+33. [Daniel Hahneman. Pensar rápido, pensar despacio.](http://www.casadellibro.com/libro-pensar-rapido-pensar-despacio/9788483068618/1989599)
 
 # Websites
 
@@ -136,3 +137,5 @@
 <img src="http://gregmckeown.com/wp-content/uploads/2011/08/book-1225x1600.jpg" width=400>
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/517Zp0Ul6OL.jpg" width=400>
+
+<img src="http://image8.casadellibro.com/a/l/t1/18/9788483068618.jpg" width=400>
