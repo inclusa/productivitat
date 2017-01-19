@@ -6,6 +6,9 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+
+[42. Rendimiento](#42-rendimiento)
+
 [41. Pensamiento](#41-pensamiento)
 
 [40. Obstáculos](#40-obstaculos)
@@ -89,7 +92,54 @@ Listado
 [1. Automotivación](#1-automotivación)
 
 
-# 41. pensamiento
+# 43. Éxito
+
+Alfons Rovira, [19.01.17 06:46]
+
+
+1. Warren dijo una vez: La diferencia entre las personas de éxito y los demás es que la gente realmente exitosa dice que no a casi todo
+
+2.  La simplicidad es la clave del éxito aquí. 
+
+3. Un proyecto totalmente terminado es mejor que cinco o más a medio terminar.
+
+-- Warren Buffet
+[ttps://hipertextual.com/2017/01/warren-buffett-decir-no](https://hipertextual.com/2017/01/warren-buffett-decir-no)
+
+# 42. Pendimeinto
+
+Alfons Rovira, [19.01.17 06:39]
+
+Bases psicológicas para conseguir un alto rendimiento:
+
+1. Atención
+
+2. Concentración
+
+3. Autocontrol de la ansiedad
+
+4. Autocontrol de la aplicación o desempeño
+
+5. Pensamientos positivos
+
+El foco atencional va difigido a cada próximo paso para encontrar el estado de concentración óptimo para ejecutarlo de forma correcta.
+
+Habilidades:
+
+1. Motivación
+
+2. Control del pensamiento
+
+3. Pensar en positivo, en afirmativo
+
+4. Visión
+
+5. Fluir: hacer correctamente lo que se quiere hacer.
+
+— Mihaly Csikszenmihály
+
+
+# 41. Pensamiento
 Alfons Rovira, [18.01.17 06:25]
 
 1. Tenemos dos sistemas de pensamiento: rápido y lento.
