@@ -6,6 +6,8 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
+[45. FAST](#45-fast)
+
 [44. Motivación](#44-motivación)
 
 [43. Éxito](#43-éxtito)
@@ -93,6 +95,30 @@ Listado
 [2. Automotivación](#2-automotivación)
 
 [1. Automotivación](#1-automotivación)
+
+
+# 45. FAST
+
+Alfons Rovira, [29.01.17 09:04]
+
+Conclusiones del seminario de Joaquín Peña Silos:
+
+1. Anotar las cosas que quieres conseguir y eliminar todo aquello que es accesorio.
+
+2. Tenemos tendencia a ser cobardes y procrastinar, para conseguir iniciar la ación debemos pensar en positivo.
+
+3. Determinar nueva acción.
+
+4. Sostenerse: mantener una vida feliz. Quita todo lo que no entre en tu enfoque.
+
+5. Dormir, hacer deporte, alimentación saludable y aprender para aumentar tu capacidad de resolver los problemas.
+
+> Uno de los puntos más importantes es pasar tiempo con las personas importantes en tu vida. Mejora las relaciones personales. Dedica tiempo de calidad.
+
+Distribución del tiempo
+
+> 35% del tiempo para mí.
+> 65 % del tiempo para los demás.
 
 
 # 44. Motivación
