@@ -1,12 +1,6 @@
 # Llista de llibres
 
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg)
-
-![https://img.shields.io/badge/code-2-blue.svg](https://img.shields.io/badge/code-2-blue.svg)
-
-![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg)
-
 ![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **001** Stephen R. Covey. 1989. Los 7 hábitos de ls gente altamente efectiva.
 
 ![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg)
@@ -49,6 +43,7 @@
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg)
 015 Tim Ferriss. 2007. La Semana Laboral de 4 Horas.
 
+![https://img.shields.io/badge/code-2-blue.svg](https://img.shields.io/badge/code-2-blue.svg)
 **016** Napoleon Hill. 1960. La Actitud Mental Positiva.
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg)
@@ -133,3 +128,11 @@
 **043** Robert B. Cialdini. The Psicology Influence of Persuasion.
 
 Font [http://librosparaemprendedores.net](http://librosparaemprendedores.net)
+
+
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg)
+
+![https://img.shields.io/badge/code-2-blue.svg](https://img.shields.io/badge/code-2-blue.svg)
+
+![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg)
+
