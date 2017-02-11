@@ -1,7 +1,7 @@
 # Llista de llibres
 
 
-**001** Stephen R. Covey. 1989. Los 7 hábitos de ls gente altamente efectiva.
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg)**001** Stephen R. Covey. 1989. Los 7 hábitos de ls gente altamente efectiva.
 
 **002** Richard Koch. 1997- El Principio del 80/20. El Secreto de Lograr Más con Menos.
 
