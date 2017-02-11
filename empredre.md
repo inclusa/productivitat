@@ -61,7 +61,7 @@
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 030 Spencer Johnson. 1998. Quién se ha llevado mi queso.
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **031** Simon Sinek. La clave es el porqué.
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **031** [Simon Sinek. La clave es el porqué.](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=ca?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread)
 
 ![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **032** El Factor X. 2009. Camilo Cruz.
 
