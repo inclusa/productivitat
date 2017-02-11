@@ -51,7 +51,7 @@
 
 ![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **025** Steven Pressfield. 2002. La Guerra del Arte.
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **026** Seth Godin. The Dip. Salir del abismo.
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **026** [Seth Godin. The Dip. Salir del abismo.](https://viviralmaximo.net/the-dip/)
 
 ![https://img.shields.io/badge/code-2-blue.svg](https://img.shields.io/badge/code-2-blue.svg) **027** Peter Thiel. 2014. De cero a uno.
 
