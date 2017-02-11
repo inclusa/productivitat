@@ -85,4 +85,6 @@
 
 **042** Edward de Bono. 1985. Six Thinking. Hats.
 
+**043** Robert B. Cialdini. The Psicology Influence of Persuasion.
+
 Font [http://librosparaemprendedores.net](http://librosparaemprendedores.net)
