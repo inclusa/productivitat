@@ -53,7 +53,7 @@
 
 ![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **026** Seth Godin. The Dip. Salir del abismo.
 
-![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) **027** Peter Thiel. 2014. De cero a uno.
+![https://img.shields.io/badge/code-2-blue.svg](https://img.shields.io/badge/code-2-blue.svg) **027** Peter Thiel. 2014. De cero a uno.
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 028 Thomas J. Stanlley y William D. Danko. El millonario de la lado.
 
