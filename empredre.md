@@ -35,7 +35,7 @@
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 017 Robert Kiyosaki. Padre Rico, Padre Pobre.
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **018** La marcha de las 20 millas (Polo Sur). Expedición Amundsen
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **018** [La marcha de las 20 millas (Polo Sur). Expedición Amundsen](https://es.wikipedia.org/wiki/Expedici%C3%B3n_Amundsen)
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 019 Michael Gerber. El Mito del Emprendedor.
 
