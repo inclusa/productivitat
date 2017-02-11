@@ -1,6 +1,5 @@
-# Llista de llibres pen emprendre
+# Llista de llibres
 
-Libros para emprendedores
 
 **001** Stephen R. Covey. 1989. Los 7 hábitos de ls gente altamente efectiva.
 
