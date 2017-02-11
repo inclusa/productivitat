@@ -77,7 +77,7 @@
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 038 Fernando Trías de Bes, Álex Rovira Celma. 2004. La Buena Suerte.
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **039** Guy Kawasaki. 2013. El arte de cautivar.
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **039** [Guy Kawasaki. 2013. El arte de cautivar.](https://www.leadersummaries.com/resumen/el-arte-de-cautivar)
 
 ![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **040** Daniel H. Pink. 2010. Drive. La Sorprendente Verdad Sobre Qué Nos Motiva.
 
