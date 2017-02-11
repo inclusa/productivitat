@@ -9,7 +9,7 @@
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 004 Guy Kawasaki. El arte de empezar.
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **005** Gary Keller y Jay Papasan. Lo único.
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **005** [Gary Keller y Jay Papasan. Lo único.](http://librosparaemprendedores.net/wp-content/uploads/2016/03/S%C3%B3lo-Una-cosa-Un-Resumen-de-Libros-para-Emprendedores.pdf)
 
 ![https://img.shields.io/badge/code-2-blue.svg](https://img.shields.io/badge/code-2-blue.svg) **006** Dale Carnegie. Cómo ganar amigos e influir sobre las personas.
 
