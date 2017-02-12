@@ -69,7 +69,7 @@
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 034 Derek Sivers. 2011. Sigue Tu Pasión.
 
-![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **035** Seth Godin. 2003. La Vaca Púrpura. Purple Cow.
+![https://img.shields.io/badge/code-1-red.svg](https://img.shields.io/badge/code-1-red.svg) **035** [Seth Godin. 2003. La Vaca Púrpura. Purple Cow.](http://marketero.io/es/_blog/Resumen-La-Vaca-Purpura-Seth-Godin)
 
 ![https://img.shields.io/badge/code-3-brightgreen.svg](https://img.shields.io/badge/code-3-brightgreen.svg) 036 Brian Tracy. 2006. Psicología de las ventas.
 
