@@ -1,6 +1,62 @@
 # Historias productivas
 
-## 01 La conquieta del Polo Sur
+
+-----------------------------
+#02 La conquista del Polo Sur
+-----------------------------
+
+Alfons Rovira, [19.02.17 07:40]
+#historias_productivas
+
+La semana pasada hablamos de Amundsen y Scott, esta semana incorporamos a Shackleton.
+
+Shackleton fue un aventurero que acompañó a Scott en un viaje anterior al Polo Sur, pero Scott le mandó a casa porque aprovechando que contrajo el escobuto.
+
+También discutía con él por cuestiones estratégicas.
+
+#01 Objetivo
+
+Como el Polo Sur estaba conquistado por Amundsen, Shackleton se planteó atravesarlo.
+
+#02 Dificultades
+
+El barco encayó en el hielo y pasaron 1 año completo hasta que se rompió, quedando en un témpano de hielo con los botes salvavidas.
+
+Esperaba que el verano mejorara las cosas.
+
+Shackleton tuvo que trabajar el ánimo de su tripulación para que o se viniera abajo.
+
+#03 Decisión
+
+Así las cosas decidió llevar a sus hombres hasta una isla congelada.
+
+#04 Confianza
+
+Allí dejó a la tripulación y, junto a dos hombres llegó a tierra firme, un destacamento ballenero.
+
+#05 Persistencia
+
+Organizó hasta 4 espediciones para rescatar a su tripulación, a la qual finalmente salvó íntegra.
+
+#06 Visión
+
+El mensaje de Sackleton es:
+
+- Ten una visión
+- Toma una meta
+- Lo que pase en el camino es importante
+- Cambia de rumbo según los acontecimientos
+- Lucha aunque no sea fácil
+
+Así, no llegó nunca a su meta pero ganó la confianza de su tripulación y tiempo después murió de camino por un ataque al corazón, de nuevo de camino al Polo Sur.
+
+#07 Podcast
+
+http://podcast-irreductible.blogspot.com.es/2009/09/podcast-irreductible-26-shackleton-y-el.html
+
+-------------------------------
+# 01 La conquieta del Polo Sur
+-------------------------------
 
 Alfons Rovira, [12.02.17 05:50]
 
