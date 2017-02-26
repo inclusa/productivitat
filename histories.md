@@ -1,6 +1,45 @@
 # Historias productivas
 
 
+---------------------------
+#03 Metáfora de las piedras
+---------------------------
+
+Alfons Rovira, [26.02.17 08:07]
+#historias_productivas
+
+Un experto en gestión de empresas quiso sorprender a los participantes de su conferencia.
+
+Sacó un grasco grando de boca ancha.
+
+Preguntó: Quantas piedras piensan que caben en el frasco?
+
+Después de que los participantes conjeturaran llenó el frasco y preguntó:
+
+- ¿Está lleno? Todo el mundo asintió.
+
+Entonces sacó un cubo con gravilla. La gravilla penetró entre los huecos. Entonces preguntó:
+
+- ¿Está lleno? Esta vez los oyentes dudaron.
+- Tal vez no.
+
+Sacó un cubo con arena y ocurrió lo mismo de antes. Volvió a prenguntar:
+
+- ¿Está lleno?
+- Los asistentes respondieron que no.
+
+El conferenciante sacó una jarra de agua y la echó hasta hacer rebosar el frasco.
+
+- Bueno, ¿què hemos demostrado?
+
+Un alumno respondió:
+
+- No importa lo llena que esté tu agenda, si lo intentas puedes hacer que quepan más cosas.
+
+- ¡No!, dijo el experto: Lo que esta lección nos enseña es que si no colocas las piedras grandes primero nunca podràs colocarlas después.
+
+— Steaphen Covey
+
 -----------------------------
 #02 La conquista del Polo Sur
 -----------------------------
