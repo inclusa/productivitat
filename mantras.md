@@ -6,7 +6,9 @@ No son más que ideas, aportaciones de distintos autores para recordar e ir refl
 
 Listado
 
-[45. FAST](#45-fast)
+[# 46. The Law of Success](#46-the-law-of-success)
+
+[# 45. FAST](#45-fast)
 
 [44. Motivación](#44-motivación)
 
@@ -95,6 +97,32 @@ Listado
 [2. Automotivación](#2-automotivación)
 
 [1. Automotivación](#1-automotivación)
+
+
+# 46. The Law of Success
+
+Alfons Rovira, [04.03.17 07:32]
+
+La Ley del éxito en 16 lecciones:
+
+1. Definir un propósito
+2. Autoconfianza
+3. Iniciativa y liderazgo
+4. Imaginación
+5. Acción
+6. Entusiasmo
+7. Autocontrol
+8. Hábito para realizar más servicios de los que te pagan
+9. Personalidad atractiva
+10. Pensamiento exacto
+11. Concentración
+12. Tolerancia
+13. Errores
+14. Cooperación
+15. Hábito de ahorrar
+16. Regla de oro: Obtener la cooperación armoniosa de cualquier individuo o grupo
+
+— Napoleon Hill. 1925. Law of Success in Sixteen Lessons.
 
 
 # 45. FAST
