@@ -27,7 +27,7 @@ Fases:
 2. Evaluación de la mejor ruta
 3. Modificación de la ruta
 
-#algoritmo
+### Algoritmo
 
   procedure ACO_MetaHeuristic
     while(not_termination)
