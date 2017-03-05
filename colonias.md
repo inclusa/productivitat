@@ -4,8 +4,6 @@
 ## 01 Hormigas
 
 Alfons Rovira, [05.03.17 08:36]
-#colonias_productivas
-#hormigas
 
 En el mundo natural, las homigas, inicialmente, vagan de manera aleatoria. Cuando encuentran la compida regresan a su colonia dejando un rastro de feromonas.
 
