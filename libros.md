@@ -48,6 +48,8 @@
 34. [Javier Iriondo. 2012. Donde tus sueños te lleven. ISBN 8497543064. Orino](http://www.casadellibro.com/libro-donde-tus-suenos-te-lleven-tu-pasado-determina-tu-futuro/9788497543064/1196510)
 35. [Start With Why](https://www.startwithwhy.com/)
 36. [Napoleon Hill. 1925. Law of Success in Sixteen Lessons.](https://en.wikipedia.org/wiki/The_Law_of_Success)
+37. [Mr. Wonderfull. Tu idea mola. Porque si quieres puedes.](https://www.casadellibro.com/libro-tu-idea-mola-porque-si-quieres-puedes/9788415888543/2258380)
+38. [Scott Adams. Cómo fracasar en casitodo y aún así triumfar](https://www.casadellibro.com/libro-como-fracasar-en-casi-todo-y-aun-asi-triunfar/9788496627895/2259865)
 
 # Websites
 
@@ -148,3 +150,7 @@
 <img src="http://t0.gstatic.com/images?q=tbn:ANd9GcRv9AgObLm4-EBwCcKJXJCETrf-JPkAq-8LvF86RN6sukt4FHHS" width=400>
 
 <img src="https://en.wikipedia.org/wiki/The_Law_of_Success#/media/File:The_Law_of_Success.jpg" width=400>
+
+<img src="https://imagessl3.casadellibro.com/a/l/t0/43/9788415888543.jpg" width="400">
+
+<img src="https://imagessl5.casadellibro.com/a/l/t1/95/9788496627895.jpg" width="400">
