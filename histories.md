@@ -94,7 +94,7 @@ Así, no llegó nunca a su meta pero ganó la confianza de su tripulación y tie
 http://podcast-irreductible.blogspot.com.es/2009/09/podcast-irreductible-26-shackleton-y-el.html
 
 -------------------------------
-# 01 La conquieta del Polo Sur
+# 01 La conquista del Polo Sur
 -------------------------------
 
 Alfons Rovira, [12.02.17 05:50]
