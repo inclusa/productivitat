@@ -51,6 +51,8 @@
 37. [Mr. Wonderfull. Tu idea mola. Porque si quieres puedes.](https://www.casadellibro.com/libro-tu-idea-mola-porque-si-quieres-puedes/9788415888543/2258380)
 38. [Scott Adams. Cómo fracasar en casitodo y aún así triumfar](https://www.casadellibro.com/libro-como-fracasar-en-casi-todo-y-aun-asi-triunfar/9788496627895/2259865)
 39. [Daniel Kahneman. Pensar rápido, pensar despacio. Debate](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-DEBATE/dp/8483068613/ref=cm_cr_arp_d_product_top?ie=UTF8)
+40. [Josh Kaufman](https://www.amazon.es/En-s%C3%B3lo-20-horas-Aprende-ebook/dp/B00KY7B3PK/ref=sr_1_2?ie=UTF8&qid=1496604982&sr=8-2&keywords=josh+kaufman) | [YouTube](https://youtu.be/5MgBikgcWnY)
+
 
 # Websites
 
@@ -157,4 +159,6 @@
 <img src="https://imagessl5.casadellibro.com/a/l/t1/95/9788496627895.jpg" width="400">
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41O0Fp-pW3L._SX323_BO1,204,203,200_.jpg" width="400">
+
+<img src="https://images-eu.ssl-images-amazon.com/images/I/51SqxF%2BefxL.jpg" width="400">
 
