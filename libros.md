@@ -52,6 +52,7 @@
 38. [Scott Adams. Cómo fracasar en casitodo y aún así triumfar](https://www.casadellibro.com/libro-como-fracasar-en-casi-todo-y-aun-asi-triunfar/9788496627895/2259865)
 39. [Daniel Kahneman. Pensar rápido, pensar despacio. Debate](https://www.amazon.es/Pensar-r%C3%A1pido-pensar-despacio-DEBATE/dp/8483068613/ref=cm_cr_arp_d_product_top?ie=UTF8)
 40. [Josh Kaufman](https://www.amazon.es/En-s%C3%B3lo-20-horas-Aprende-ebook/dp/B00KY7B3PK/ref=sr_1_2?ie=UTF8&qid=1496604982&sr=8-2&keywords=josh+kaufman) | [YouTube](https://youtu.be/5MgBikgcWnY)
+41. [José Hermida. Hablar sin palabras. Cómo dominar las situaciones a través de los gestos. Ed. Temas de hoy](https://www.amazon.es/Hablar-sin-palabras-situaciones-Pr%C3%A1cticos/dp/8499983995/ref=sr_1_1?ie=UTF8&qid=1522993541&sr=8-1&keywords=jose+hermida+hablar+sin+palabras)
 
 
 # Websites
@@ -162,3 +163,4 @@
 
 <img src="https://images-eu.ssl-images-amazon.com/images/I/51SqxF%2BefxL.jpg" width="400">
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51Q4bLtojTL._SX327_BO1,204,203,200_.jpg" width="400">
